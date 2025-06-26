@@ -196,8 +196,7 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/manifest/214536.m3u8
+https://s.catcast.tv/content/48917/index.m3u8?token=076c5846fb3b5199f61a33657187e875
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://v2.catcast.tv/content/44051/index.m3u8
