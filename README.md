@@ -341,6 +341,8 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0M6751.png" group-title="Познавательные",ММ-микромир HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18193/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSpVqRA.png" group-title="Познавательные",TERRA
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/230/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
