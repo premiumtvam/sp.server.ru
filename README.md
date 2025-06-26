@@ -348,13 +348,13 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKPO0Pl.png" group-title="Познавательные",ТВ БРИКС
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
-http://ott-cdn.ucom.am/s98/04.m3u8
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2155/index.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img/2463.png" group-title="Познавательные",Загородный
-http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://i.imgur.com/36RCtZq.png" group-title="Познавательные",Big Planet
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14027/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные",Приключения
