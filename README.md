@@ -61,8 +61,6 @@ https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3033.png" group-title="Общероссийские",РЕН ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ INT
-https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/3037.png" group-title="Общероссийские",ТВ Центр +4
@@ -195,39 +193,9 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
-http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/manifest/214536.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="Кинозалы",4K Hits 
-#EXTVLCOPT:http-user-agent=SmartTV
-https://ix.goodgame.ru/hls/206513.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="Кинозалы",Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="Кинозалы",FAN HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru/hls/176975.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5357.png" group-title="Кинозалы",Akudji TV HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="Кинозалы",VKTV CINEMA HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/173945.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="Кинозалы",Alpha Cinema HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru/hls/205072.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ily2wsg.png" group-title="Кинозалы",Fks Films HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="Кинозалы",KinoJam HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/manifest/210182_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://v2.catcast.tv/content/44051/index.m3u8
@@ -553,41 +521,3 @@ http://ott-cdn.ucom.am/s42/index.m3u8
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6tu3b4.png" group-title="Зарубежные",NDR HD DE
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8X08Fx.png" group-title="Зарубежные",WDR DE
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8?
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="Зарубежные",ZDF DE
-https://s6.hopslan.com/zdfX/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3113.png" group-title="Зарубежные",RTL DE
-https://s6.hopslan.com/rtlX1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Зарубежные",Star TV TR
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" group-title="Зарубежные",TRT TÜRK TR
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" group-title="Зарубежные",TRT AVAZ TR
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9kUe9bf.png" group-title="Зарубежные",Az TV HD AZ
-https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 tvg-id="cbc-hd-az" tvg-logo="http://epg.one/img/2158.png" group-title="Зарубежные",CBC TV AZ
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8?token=1733281436/0f2c4ddbf0a334e0f6b97412ecb7fbfa
-#EXTINF:-1 tvg-id="9144" tvg-logo="http://epg.one/img/2636.png" group-title="Зарубежные",CBC Sport AZ
-http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://epg.one/img/2563.png" group-title="Зарубежные",Imedi TV GE
-https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Зарубежные",1TV Georgia GE
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="channel-11-il" tvg-logo="http://epg.one/img/2673.png" group-title="Зарубежные",11 Channel HD IL
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
-#EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://epg.one/img/2670.png" group-title="Зарубежные",12 Channel IL
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1732977596~acl=%2f*~data=hdntl~hmac=107393c6756aa2b354a7bd5f7921a630b22a85308d0f38cacc4d2be7c75019f6/profileManifest.m3u8?_uid=e222740e-9ad5-4b3b-9d9e-2bba7591ece3&rK=a2&_did=ceac49885fc164cc10012ab2d9bb0f28de7be35f
-#EXTINF:-1 tvg-id="channel-13-il" tvg-logo="http://epg.one/img/2671.png" group-title="Зарубежные",13 Channel IL
-https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/0/profileManifest.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Канал 14" tvg-logo="https://i.imgur.com/mYRoPWW.png" group-title="Зарубежные",14 Channel IL
-https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/master.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: CineSony" tvg-logo="https://i.imgur.com/9yXdcVm.png" group-title="Зарубежные",Cine Sony SP	
-https://bozztv.com/gusa/gusa-tvsclassicmovies/mono.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: Aragontv" tvg-logo="https://i.imgur.com/mpiy2VJ.png" group-title="Зарубежные",Aragon TV HD SP
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="iz_:IL: telemadrit" tvg-logo="https://i.imgur.com/l7ggEeC.png" group-title="Зарубежные",Теле Мадрид HD SP
-https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
