@@ -239,7 +239,7 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Детский",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Детский",Рыжий
-http://ott-cdn.ucom.am/s57/index.m3u8
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2052/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Детский",Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Детский",СТС Kids
@@ -249,7 +249,7 @@ http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/555.png" group-title="Детский",Tiji
-http://ott-cdn.ucom.am/s59/index.m3u8
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
@@ -265,13 +265,11 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
-https://goo.su/F1U5ln
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2156/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DO0zyKo.png" group-title="Музыкальные",PMC TV
-https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="pulse-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/ImFTf4v.png" group-title="Музыкальные",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="popstar-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/883tY0N.png" group-title="Музыкальные",POP STAR
@@ -290,8 +288,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV
 https://bss1.neterra.tv/magictv/stream_0.m3u8
-#EXTINF:-1 tvg-id="retroplus-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",RETRO PLUS TV
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1570192527.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
@@ -320,12 +316,6 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RUSSIA HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
-#EXTVLCOPT:http-user-agent=SmartTV
-https://hls.goodgame.ru/hls/181490.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:HTTP user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -341,8 +331,8 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-rok-ruxit" tvg-logo="http://epg.one/img/6188.png" group-title="Музыкальные",Bridge Rock
-https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
+#EXTINF:-1 tvg-id="bridge-rok-ruxit" tvg-logo="https://i.imgur.com/svZP8bC.png" group-title="Музыкальные",Bridge Hits
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19227/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
