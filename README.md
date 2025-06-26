@@ -262,7 +262,7 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/626.png" group-title="Музыкальные",Veles Магнитофон
+#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="https://i.imgur.com/PzdNWc1.png" group-title="Музыкальные",Veles Магнитофон
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31645/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="https://i.imgur.com/oEuFoBw.png" group-title="Музыкальные",VF Music
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/15516/index.m3u8
