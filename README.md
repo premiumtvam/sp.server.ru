@@ -185,6 +185,12 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/RIa2jcd.png" group-title="Кинозалы",Cineman
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/AshOug0.png" group-title="Кинозалы",BCU Premiere 1 HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11015/index.m3u8
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/z9vSyF8.png" group-title="Кинозалы",BCU Premiere 2 HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11016/index.m3u8
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/FqqdST4.png" group-title="Кинозалы",BCU Premiere 3 HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11017/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кинозалы",Yosso vhs
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
