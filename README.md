@@ -179,6 +179,10 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7244/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UO7PzOZ.png" group-title="Кино",Киномикс HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7249/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VY0ksEk.png" group-title="Кино",Киносвидание HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7245/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZ1dhE5.png" group-title="Кино",Кинокомедия HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7248/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино",.sci-fi
