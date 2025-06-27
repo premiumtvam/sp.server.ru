@@ -225,7 +225,7 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11015/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11016/index.m3u8
 #EXTINF:-1 tvg-id="bcupremiere3" tvg-logo="https://i.imgur.com/FqqdST4.png" group-title="Кинозалы",BCU Premiere 3 HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11017/index.m3u8
-#EXTINF:-1 tvg-id="Yosso vhs" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кинозалы",Yosso vhs
+#EXTINF:-1 tvg-id="Yosso vhs" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кинозалы",Yosso VHS
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tw6Hpur.png" group-title="Кинозалы",Yosso New Кино
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14177/index.m3u8
@@ -237,8 +237,12 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmBPL3Y.png" group-title="Кинозалы",Veles страшное
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31642/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrrV8Bg.png" group-title="Кинозалы",Fresh VHS
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19293/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNyW5U8.png" group-title="Кинозалы",Fresh Cinema
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19287/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRGnzr1.png" group-title="Кинозалы",Fresh Premiere
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19290/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 https://autopilot.catcast.tv/content/48917/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
