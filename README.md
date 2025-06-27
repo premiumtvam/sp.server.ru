@@ -205,9 +205,9 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/RIa2jcd.png" group-title="Кинозалы",Cineman
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2na4YMx.png" group-title="Кино",Cineman Top
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2na4YMx.png" group-title="Кинозалы",Cineman Top
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11005/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ohbQf.png" group-title="Кино",CineMan Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ohbQf.png" group-title="Кинозалы",CineMan Action 
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11006/index.m3u8
 #EXTINF:-1 tvg-id="bcupremiere1" tvg-logo="https://i.imgur.com/AshOug0.png" group-title="Кинозалы",BCU Premiere 1 HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11015/index.m3u8
