@@ -213,6 +213,8 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
+https://autopilot.catcast.tv/content/48917/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/RIa2jcd.png" group-title="Кинозалы",Cineman
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2na4YMx.png" group-title="Кинозалы",Cineman Top
@@ -243,11 +245,6 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19293/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19287/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRGnzr1.png" group-title="Кинозалы",Fresh Premiere
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19290/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
-https://autopilot.catcast.tv/content/48917/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
