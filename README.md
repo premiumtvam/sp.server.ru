@@ -342,6 +342,8 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-rok-ruxit" tvg-logo="https://i.imgur.com/svZP8bC.png" group-title="Музыкальные",Bridge Hits
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19227/index.m3u8
+#EXTINF:-1 tvg-id="bridge-rok-ruxit" tvg-logo="https://i.imgur.com/svZP8bC.png" group-title="Музыкальные",Bridge Delux
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/236/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
