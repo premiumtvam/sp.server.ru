@@ -219,6 +219,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11017/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
 #EXTINF:-1 tvg-id="Veles 60 Fps" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmBPL3Y.png" group-title="Кинозалы",Veles страшное
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31642/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 https://autopilot.catcast.tv/content/48917/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
