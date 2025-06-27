@@ -368,8 +368,6 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18193/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18195/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSpVqRA.png" group-title="Познавательные",TERRA
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/230/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2010/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKPO0Pl.png" group-title="Познавательные",ТВ БРИКС
@@ -382,8 +380,14 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://stream01.vnet.am/365Dney/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://i.imgur.com/36RCtZq.png" group-title="Познавательные",Big Planet
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy 
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2010/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcCYxbn.png" group-title="Познавательные",History 
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/837/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MET9JIm.png" group-title="Познавательные",History 2
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/1052/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные",Приключения
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные",Телекафе
