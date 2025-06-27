@@ -404,6 +404,8 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14001/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery HD
