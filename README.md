@@ -137,6 +137,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6388/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31448/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/3R9QdYi.png" group-title="Кино",Шокирующее HD.
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6299/index.m3u8
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/taOyrO8.png" group-title="Кино",Хит HD
