@@ -368,6 +368,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18193/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18195/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSpVqRA.png" group-title="Познавательные",TERRA
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/230/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2010/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKPO0Pl.png" group-title="Познавательные",ТВ БРИКС
