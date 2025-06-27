@@ -147,6 +147,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2436/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2439/index.m3u8
 #EXTINF:-1 tvg-id="komediynoehd" tvg-logo="https://i.imgur.com/CulLNE5.png" group-title="Кино",Комедийное HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/912/index.m3u8
+#EXTINF:-1 tvg-id="dushevnoehd" tvg-logo="https://i.imgur.com/U578IJD.png" group-title="Кино",Душевное HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/914/index.m3u8
 #EXTINF:-1 tvg-id="vhska" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/taOyrO8.png" group-title="Кино",Хит HD
@@ -388,6 +390,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2155/index.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
+#EXTINF:-1 tvg-id="glazamiturista" tvg-logo="https://i.imgur.com/HIPRx6l.png" group-title="Познавательные",Глазами Туриста HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2104/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://i.imgur.com/36RCtZq.png" group-title="Познавательные",Big Planet
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy 
