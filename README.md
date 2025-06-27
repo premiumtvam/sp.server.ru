@@ -227,6 +227,10 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11016/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11017/index.m3u8
 #EXTINF:-1 tvg-id="Yosso vhs" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кинозалы",Yosso vhs
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tw6Hpur.png" group-title="Кинозалы",Yosso New Кино
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14177/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ve4MB6X.png" group-title="Кинозалы",Yosso Best
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14236/index.m3u8
 #EXTINF:-1 tvg-id="Veles 60 Fps" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HzWB3z.png" group-title="Кинозалы",Veles Premiere
