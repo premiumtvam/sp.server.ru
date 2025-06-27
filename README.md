@@ -129,15 +129,15 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/f2E7sqI.png" group-title="Кино",Viju TV1000 HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6387/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/Qd0MTgL.png" group-title="Кино",Viju TV1000 Action
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/Qd0MTgL.png" group-title="Кино",Viju TV1000 Action HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6386/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/0nKYKip.png" group-title="Кино",Viju TV1000 Русское
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/0nKYKip.png" group-title="Кино",Viju TV1000 Русское HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6388/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/JXsDw3m.png" group-title="Кино",Viasat kino
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/c3RTGbz.png" group-title="Кино",Viasat kino HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31765/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/JXsDw3m.png" group-title="Кино",Viasat kino world
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/JXsDw3m.png" group-title="Кино",Viasat kino world HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31448/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/JXsDw3m.png" group-title="Кино",Viasat kino Comedy
+#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/hIngEFz.png" group-title="Кино",Viasat kino Comedy HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31764/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/3R9QdYi.png" group-title="Кино",Шокирующее HD.
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6299/index.m3u8
