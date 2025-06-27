@@ -237,6 +237,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmBPL3Y.png" group-title="Кинозалы",Veles страшное
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31642/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNyW5U8.png" group-title="Кинозалы",Fresh Cinema
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19287/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
 https://autopilot.catcast.tv/content/48917/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B5CjYPc.png" group-title="Кинозалы",MGM HD
