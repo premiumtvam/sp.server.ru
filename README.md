@@ -141,8 +141,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31448/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31764/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/3R9QdYi.png" group-title="Кино",Шокирующее HD.
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6299/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
+#EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://i.imgur.com/xwDxdkh.png" group-title="Кино",Блокбастер HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2436/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/taOyrO8.png" group-title="Кино",Хит HD
@@ -157,8 +157,10 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2097/index.m3u8
-#EXTINF:-1 tvg-id="viasat-kino world" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
+#EXTINF:-1 tvg-id="kineko" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://i.imgur.com/l5priN9.png" group-title="Кино",Киноужас
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2056/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
