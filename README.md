@@ -143,7 +143,11 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31764/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6299/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://i.imgur.com/xwDxdkh.png" group-title="Кино",Блокбастер HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2436/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
+#EXTINF:-1 tvg-id="kinopokazhd" tvg-logo="https://i.imgur.com/pecqoNv.png" group-title="Кино",Кинопоказ HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2439/index.m3u8
+#EXTINF:-1 tvg-id="komediynoehd" tvg-logo="https://i.imgur.com/CulLNE5.png" group-title="Кино",Комедийное HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/912/index.m3u8
+#EXTINF:-1 tvg-id="vhska" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/taOyrO8.png" group-title="Кино",Хит HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2438/index.m3u8
