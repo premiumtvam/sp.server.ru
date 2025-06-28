@@ -245,6 +245,12 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19293/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19287/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRGnzr1.png" group-title="Кинозалы",Fresh Premiere
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19290/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66DsHKX.png" group-title="Кинозалы",Magic VHS HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18062/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mUK3mR.png" group-title="Кинозалы",Magic Action HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18066/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNNQ9F1.png" group-title="Кинозалы",Magic Thriller HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18065/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
