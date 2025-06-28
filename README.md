@@ -189,6 +189,8 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKf4l7J.png" group-title="Кино",Trash HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6396/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
