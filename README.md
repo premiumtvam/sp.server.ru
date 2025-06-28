@@ -431,6 +431,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2104/index.m3u8
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy 
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKs3fR9.png" group-title="Познавательные",Космо HD
+http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11065/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcCYxbn.png" group-title="Познавательные",History 
