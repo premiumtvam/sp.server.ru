@@ -140,7 +140,6 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31448/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/hIngEFz.png" group-title="Кино",Viasat kino Comedy HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31764/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
-#EXTVLCOPT:http-user-agent=SmartTV
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://i.imgur.com/goyOnjN.png" group-title="Кино",Премиальное HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7222/index.m3u8
