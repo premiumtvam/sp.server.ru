@@ -558,9 +558,9 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="azatutyun-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2385.png" group-title="Армения",Ազատություն TV
 http://ott-cdn.ucom.am/s3/index.m3u8
 #EXTINF:-1 tvg-id="nor-hayastan-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/7084.png" group-title="Армения",նոր ՀԱՅԱՍՏԱՆ
-http://ott-cdn.ucom.am/s12/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1898.m3u8
 #EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն
-http://ott-cdn.ucom.am/s5/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1890.m3u8
 #EXTINF:-1 tvg-id="hay-kino-am" tvg-rec="7" tvg-logo="http://epg.one/img/2397.png" group-title="Армения",հայ կինո
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
@@ -570,9 +570,9 @@ http://stream01.vnet.am/Channel_118/mono.m3u8
 #EXTINF:-1 tvg-id="atv-filmzone-am-hd-orig" tvg-rec="7" tvg-logo="https://i.imgur.com/mDnNFEi.png" group-title="Армения",ԿԻՆՈՄԱՆ HD
 http://stream02.vnet.am/Kinoman/mono.m3u8
 #EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
-http://ott-cdn.ucom.am/s53/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1906.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
-http://ott-cdn.ucom.am/s48/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1907.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Արմենիա comedy
@@ -596,6 +596,6 @@ http://cdntv.online/hls/bwarxef2py/1905.m3u8
 #EXTINF:-1 tvg-id="arm-music-am-hd" tvg-rec="0" tvg-logo="http://epg.one/img/2396.png" group-title="Армения",ջան tv
 http://ott-cdn.ucom.am/s42/index.m3u8
 #EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
-http://ott-cdn.ucom.am/s10/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1892.m3u8
 #EXTINF:-1 tvg-id="TownTownik TV-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2390.png" group-title="Армения",տունտունիկ
-http://ott-cdn.ucom.am/s46/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1904.m3u8
