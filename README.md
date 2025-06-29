@@ -550,7 +550,7 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://i.imgur.com/ZaWExUo.png" group-title="Армения",Արմենիա TV HD
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:-1 tvg-id="armenia-premium-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2384.png" group-title="Армения",Armenia Premium HD
-http://ott-cdn.ucom.am/s83/index.m3u8
+http://cdntv.online/hls/bwarxef2py/1911.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5940.png" group-title="Армения",Free News HD
 http://ronaldo.tvfor.pro/ffxTwjb1yVTv/zt5kjewmaxrvpe2s5q7pfxe9
 #EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png" group-title="Армения",Լուրեր HD
