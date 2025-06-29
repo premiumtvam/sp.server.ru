@@ -575,6 +575,8 @@ http://ott-cdn.ucom.am/s53/index.m3u8
 http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
 http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Արմենիա comedy
+http://cdntv.online/hls/bwarxef2py/1914.m3u8
 #EXTINF:-1 tvg-id="erkir-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/5921.png" group-title="Армения",Երկիր մեդիա
 http://ott-cdn.ucom.am/s7/index.m3u8
 #EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
@@ -589,6 +591,8 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Muzzone
+http://cdntv.online/hls/bwarxef2py/1905.m3u8
 #EXTINF:-1 tvg-id="arm-music-am-hd" tvg-rec="0" tvg-logo="http://epg.one/img/2396.png" group-title="Армения",ջան tv
 http://ott-cdn.ucom.am/s42/index.m3u8
 #EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
