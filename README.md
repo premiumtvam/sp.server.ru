@@ -218,7 +218,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="Кинозалы",VHDV TV
-https://autopilot.catcast.tv/content/48917/index.m3u8
+https://germany-rtmp-hz2.streamvi.io/live/f2125707-e60e-4b77-9fcc-82ca663fe419/video1_stream.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/RIa2jcd.png" group-title="Кинозалы",Cineman
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2na4YMx.png" group-title="Кинозалы",Cineman Top
