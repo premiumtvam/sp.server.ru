@@ -343,7 +343,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="muzzikhiphop-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/Ix4SGNc.png" group-title="Музыкальные",Muzzik ZZ
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
-http://195.9.195.3:8080/hls/201891.m3u8
+https://132544.edgevideo.ru/streams/132544_932351/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
