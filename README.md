@@ -57,6 +57,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3033.png" group-title="Общероссийские",РЕН ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3033.png" group-title="Общероссийские",РЕН ТВ +7
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="tvc-hd" tvg-logo="http://epg.one/img/3037.png" group-title="Общероссийские",ТВ Центр +4
