@@ -561,7 +561,7 @@ http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2372.png" group-title="Армения",5 ալիք
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2395.png" group-title="🇦🇲Հայկական",Նոր Հայաստան
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2395.png" group-title="Армения",Նոր Հայաստան
 http://45.11.139.43:8555/norhayastan/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/7866.png" group-title="Армения",Դելտա TV
 http://45.11.139.120:8555/delta/index.m3u8
