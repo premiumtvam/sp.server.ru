@@ -543,6 +543,8 @@ http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e6fHxuW.png" group-title="Спортивные",Волейбол
+https://salam-mskth-75.rutube.ru/dive/river-3-311.rtbcdn.ru/lmUAfG8pHK7MJpsFNLr0xA/stream/genetta-315.m9.rutube.ru/cn76ausxTPBSaCI5DLzv7A/1753078833/cc1b56aa4955a144f324ad58998513bb/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
