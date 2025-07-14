@@ -617,3 +617,5 @@ http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/logo/bazmoc.png" group-title="Армения",Բազմոց TV
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-cineman-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2394.png" group-title="Армения",Սինեման
+http://ott-cdn.ucom.am/s66/index.m3u8
