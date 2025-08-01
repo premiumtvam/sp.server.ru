@@ -191,6 +191,8 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7248/index.m3u8
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино",.sci-fi
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
+#EXTINF:-1 tvg-id="blackhd" tvg-logo="http://epg.one/img/935.png" group-title="Кино",black HD
+http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKf4l7J.png" group-title="Кино",Trash HD
