@@ -472,7 +472,7 @@ http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2099/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmaotB6.png" group-title="Познавательные",HGTV
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6391/index.m3u8
+http://str6.oxtve.live:8080/HGTV_HD/mpegts
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
