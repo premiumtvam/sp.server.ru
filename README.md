@@ -221,7 +221,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV Ultra 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jt4a9Di.png" group-title="Кинозалы",ОСТРЫЙ HD
 https://132544.edgevideo.ru/streams/132544_932006/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
 https://132544.edgevideo.ru/streams/132544_847220/132544720/index.m3u8
