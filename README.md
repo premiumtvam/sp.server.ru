@@ -225,42 +225,6 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://live.vkvideo.ru/vhdvtv
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
 https://132544.edgevideo.ru/streams/132544_847220/132544720/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/RIa2jcd.png" group-title="Кинозалы",Cineman
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11004/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2na4YMx.png" group-title="Кинозалы",Cineman Top
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11005/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ohbQf.png" group-title="Кинозалы",CineMan Action 
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11006/index.m3u8
-#EXTINF:-1 tvg-id="bcupremiere1" tvg-logo="https://i.imgur.com/AshOug0.png" group-title="Кинозалы",BCU Premiere 1 HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11015/index.m3u8
-#EXTINF:-1 tvg-id="bcupremiere2" tvg-logo="https://i.imgur.com/z9vSyF8.png" group-title="Кинозалы",BCU Premiere 2 HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11016/index.m3u8
-#EXTINF:-1 tvg-id="bcupremiere3" tvg-logo="https://i.imgur.com/FqqdST4.png" group-title="Кинозалы",BCU Premiere 3 HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11017/index.m3u8
-#EXTINF:-1 tvg-id="Yosso vhs" tvg-logo="https://i.imgur.com/1eogU4V.png" group-title="Кинозалы",Yosso VHS
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14172/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tw6Hpur.png" group-title="Кинозалы",Yosso New Кино
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14177/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ve4MB6X.png" group-title="Кинозалы",Yosso Best
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14236/index.m3u8
-#EXTINF:-1 tvg-id="Veles 60 Fps" tvg-logo="https://i.imgur.com/Xj8hbIq.png" group-title="Кинозалы",Veles 60 Fps
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31637/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2HzWB3z.png" group-title="Кинозалы",Veles Premiere
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31641/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmBPL3Y.png" group-title="Кинозалы",Veles страшное
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31642/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrrV8Bg.png" group-title="Кинозалы",Fresh VHS
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19293/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNyW5U8.png" group-title="Кинозалы",Fresh Cinema
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19287/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WRGnzr1.png" group-title="Кинозалы",Fresh Premiere
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19290/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/66DsHKX.png" group-title="Кинозалы",Magic VHS HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18062/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mUK3mR.png" group-title="Кинозалы",Magic Action HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18066/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zNNQ9F1.png" group-title="Кинозалы",Magic Thriller HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18065/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
