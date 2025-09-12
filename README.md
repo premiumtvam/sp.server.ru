@@ -129,18 +129,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="Vijutv1000" tvg-logo="https://i.imgur.com/f2E7sqI.png" group-title="Кино",Viju TV1000 HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6387/index.m3u8
-#EXTINF:-1 tvg-id="Vijutv1000action" tvg-logo="https://i.imgur.com/Qd0MTgL.png" group-title="Кино",Viju TV1000 Action HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6386/index.m3u8
-#EXTINF:-1 tvg-id="Vijutv1000russkoe" tvg-logo="https://i.imgur.com/0nKYKip.png" group-title="Кино",Viju TV1000 Русское HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6388/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/c3RTGbz.png" group-title="Кино",Viasat kino HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31765/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/xnMVa5I.png" group-title="Кино",Viasat kino world HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31448/index.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="https://i.imgur.com/hIngEFz.png" group-title="Кино",Viasat kino Comedy HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31764/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://i.imgur.com/goyOnjN.png" group-title="Кино",Премиальное HD
