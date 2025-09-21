@@ -130,7 +130,7 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/904/index.m3u8
+https://s.viks.tv/t747OV2Q0omWRtpbrP-eXQ/578/1758464798/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://i.imgur.com/goyOnjN.png" group-title="Кино",Премиальное HD
 http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7222/index.m3u8
 #EXTINF:-1 tvg-id="shokirueshee" tvg-logo="https://i.imgur.com/3R9QdYi.png" group-title="Кино",Шокирующее HD.
