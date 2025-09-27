@@ -213,6 +213,8 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
 https://132544.edgevideo.ru/streams/132544_847220/132544720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji HD
+https://clck.ru/3PSY2g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
