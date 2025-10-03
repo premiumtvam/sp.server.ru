@@ -129,26 +129,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Ou4cas.png" group-title="Кино",Остросюжетное HD
-https://s.viks.tv/t747OV2Q0omWRtpbrP-eXQ/578/1758464798/index.m3u8
-#EXTINF:-1 tvg-id="premialnoe" tvg-logo="https://i.imgur.com/goyOnjN.png" group-title="Кино",Премиальное HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7222/index.m3u8
-#EXTINF:-1 tvg-id="shokirueshee" tvg-logo="https://i.imgur.com/3R9QdYi.png" group-title="Кино",Шокирующее HD.
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6299/index.m3u8
-#EXTINF:-1 tvg-id="blokbaster" tvg-logo="https://i.imgur.com/xwDxdkh.png" group-title="Кино",Блокбастер HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2436/index.m3u8
-#EXTINF:-1 tvg-id="kinopokazhd" tvg-logo="https://i.imgur.com/pecqoNv.png" group-title="Кино",Кинопоказ HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2439/index.m3u8
-#EXTINF:-1 tvg-id="komediynoehd" tvg-logo="https://i.imgur.com/CulLNE5.png" group-title="Кино",Комедийное HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/912/index.m3u8
-#EXTINF:-1 tvg-id="dushevnoehd" tvg-logo="https://i.imgur.com/U578IJD.png" group-title="Кино",Душевное HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/914/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m4tw6ol.png" group-title="Кино",Мосфильм HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7347/index.m3u8
-#EXTINF:-1 tvg-id="vhska" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/5006/index.m3u8
-#EXTINF:-1 tvg-id="xittv" tvg-logo="https://i.imgur.com/taOyrO8.png" group-title="Кино",Хит HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2438/index.m3u8
 #EXTINF:-1 tvg-id="kino 1 int" tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
@@ -210,7 +190,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="Кинозалы",VHDV TV
-https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
+https://132544.edgevideo.ru/streams/132544_968144/1325441080/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
 https://132544.edgevideo.ru/streams/132544_847220/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji HD
