@@ -192,7 +192,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 720
 https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
-https://euc12.playlist.ttvnw.net/v1/playlist/CpQGYngNWOYuoQyvKOM4LjNbKhpQkLllt3im7DzY5_Izc6ZS1hOd2nYLW-pT0h--2UgTzcAJ4j3mi7OWOIocwUvybgR-tEXYfIzL_Qa105zbbY9a8BEHVw0u1epV7I_rkJkt1GMdg8Nd6BmDnsS0IuLiT39APTtzSpONC9l9lQJyh555jHRKBSYxbJAstep0osd2DwWx-9l-p5yaKq0dtONxc_JH77sYKea8iL3b5KAlN7neZ_wUxvc-eCQQUchrrI151OzvPN9JQXTFZAIfk0VUGJx0AtFQagjWSUzEm1v0G2b5V6ZMjuwZ7m279hr-IyJv3AFAx6m2jLDGJ2M7TQ1iMGBcDUjlizOweIAri2vRRhNSmmW6t98SO6J8tA0rtldAu63OKIYLoKSxB9raTG8SbnHKCRoD0hE11GXvnpcMO2u6PtLyPwcL-xxi4rLiNaRexoQrcDRcrm673ntv8hlpBNdBETGC7BWD6fePlCDFm6e1TWGX71LuEEcgqNhfNkD4WAPrHPjK8KIpjH5YqYpyc1XZ3aTDEgh93xw0XQk2nzyGxzz42x9zVauO9nSjZjpP5Xl0umNGR1x3YuD0wPXHXz0ec_q114taXqFejJMO3HBxB6-54sDwm3SCDJv0g8nJJ8sSJeqPzt8IFAwRgEKE-genuerjn5i44wHCYajGiZnNH-Mj2ljNW-omNE2t9QBcarlnyx0iyv8uawSwhbKoUlIdkmPmtNCzgZlGOW4aKhvAz7FmCvl7n50C5l7GtCsYpjgYko_41Tmw1pukNXeHTAflT97QBO9NqbVeI46g-PXkoLc9limtdKLW7iaWsjS_CWiePl8c-UhMCY1DFgXqnzVwabxWUq9lKKikEBCPJn6Kh_cM3S7MmdCmIxqTBemY1f3ywkpJP7SIpoFMNyn27Kqw7YuqQmc_lX43fEVPw9YSGK_he6xcU6062FnpgQnEIJlMmLHwN3rmzV_Ba6Zq_77lWRVjdbEZnlieUENwsCZYIRjGvyqCYwvZ_9TSXkyEuor4tGEXS7Qxsm3L7fqFbvOa2oEaDFjekOmh35FLGP6_DSABKglldS13ZXN0LTIwzw0.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
 https://132544.edgevideo.ru/streams/132544_847220/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji HD
