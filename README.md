@@ -193,7 +193,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 https://132544.edgevideo.ru/streams/132544_968144/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",FILM_best TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rH2v5oU.png" group-title="Кинозалы",FILM_best TV HD
 https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
