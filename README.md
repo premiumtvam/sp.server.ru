@@ -199,6 +199,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Millennium
+https://live20.bozztv.com/akamaissh101/ssh101/millennium/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
