@@ -91,8 +91,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 https://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 tvg-id="yu-tv" tvg-logo="https://i.imgur.com/KFVkj3S.png" group-title="Общероссийские",Перец International
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/15227/index.m3u8
+#EXTINF:-1 tvg-id="yu-tv" tvg-logo="https://i.imgur.com/KFVkj3S.png" group-title="Общероссийские",Перец 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +4
