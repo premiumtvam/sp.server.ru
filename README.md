@@ -264,16 +264,10 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="https://i.imgur.com/PzdNWc1.png" group-title="Музыкальные",Veles Магнитофон
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/31645/index.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="https://i.imgur.com/oEuFoBw.png" group-title="Музыкальные",VF Music
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/15516/index.m3u8
 #EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="aiva" tvg-logo="http://epg.one/img/2837.png" group-title="Музыкальные",AIVA
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2156/index.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
@@ -328,8 +322,6 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AaTnSOu.png" group-title="Музыкальные",1HD Music
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/17038/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:HTTP user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -347,12 +339,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-hits" tvg-logo="https://i.imgur.com/svZP8bC.png" group-title="Музыкальные",Bridge Hits
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19227/index.m3u8
-#EXTINF:-1 tvg-id="Bridge fresh" tvg-rec="0" tvg-logo="https://i.imgur.com/n07Ow6i.png" group-title="Музыкальные",Bridge Фреш
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/9053/index.m3u8
-#EXTINF:-1 tvg-id="bridge delux" tvg-logo="https://i.imgur.com/wQMWnZu.png" group-title="Музыкальные",Bridge Delux
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/236/index.m3u8
 #EXTINF:-1 tvg-id="1mus-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный HD BY
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
