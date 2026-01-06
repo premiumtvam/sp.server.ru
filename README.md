@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml.gz" https://raw.githubusercontent.com/premiumtvam/epgvhdvtv/refs/heads/main/README.md
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz" 
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские",Первый
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
@@ -187,6 +187,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="2264" tvg-logo="https://i.imgur.com/5HD76RP.png" tvg-rec="0",VHDV TV 1080
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumtvam/epgvhdvtv/refs/heads/main/README.md" 
 #EXTINF:0 group-title="Кинозалы" tvg-id="2264" tvg-logo="https://i.imgur.com/5HD76RP.png" url-tvg="0",VHDV TV 1080
 https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH2v5oU.png" group-title="Кинозалы",FILM_best TV HD
