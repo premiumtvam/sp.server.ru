@@ -194,7 +194,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+http://195.9.195.3:8080/hls/217083.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
