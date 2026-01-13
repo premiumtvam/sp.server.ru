@@ -201,6 +201,8 @@ http://195.9.195.3:8080/hls/217083.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",Katastroff
+http://195.9.195.3:8080/hls/208789.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
