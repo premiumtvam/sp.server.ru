@@ -192,7 +192,7 @@ http://195.9.195.3:8080/hls/219390.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH2v5oU.png" group-title="Кинозалы",FILM_best TV HD
 http://195.9.195.3:8080/hls/212682.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
 http://195.9.195.3:8080/hls/217083.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
