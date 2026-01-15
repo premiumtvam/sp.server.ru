@@ -5,6 +5,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +7
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/711.png" group-title="Общероссийские",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="rossija-hd" tvg-rec="7" tvg-logo="http://epg.one/img/984.png" group-title="Общероссийские",Россия 1 HD
