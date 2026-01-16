@@ -192,7 +192,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV 1080
-https://clck.ru/3RJy7M
+https://euc13.playlist.live-video.net/v1/playlist/CtkFSAUIer75tEm3izJrkwIeBrw763klA3dDKfrX5--W2vwf8Azgz7xyvAHk7z-KmDqexWTqEepQLkm-OhrhFgaY5Aezou-LmxFRmv8YzCkyFTeaKL2_i7gvl9O1-eZVw5lKkpv2qgXq3eKBYbwp92rSDSMBYuYDI7hYQFB6_Xfz6UNHsHUlHtmPTZUJ3Hl7WfOMMpPW64aZnWWVIUF0tumW4E6wZYOJFdjUQINDSqt8IqovB7AZ7l0tuXiBRtz0YsZu1a1QOWnst5hfbGJ45jOw9S3uGencWvNntta72tmqJJxiyH8wUMGQ4aJzGd1TxPGkTCXZbW9dvSsGbB-auk6jH_l4nDVe_KskEpPb_G2HptG96pz5V-uB9StCpNavMrSo5lQj9JnAXVu3fwTImBYkmNZe5RWPVJl-vTBMf_AAaPPXiOPbNx86OjKi9_WdrrEJpPSx5go0FO-GgnKBCzVrOeyINvqjviBW5UCxteBf-6PNXHlvqJdsuPlf4nGw8sOHEd6ATosqEXxLup9M760Y6KBxN8UjrL20p6R32g45oZgDqTkvY0cEuV1z_4O9fV5B0nQHBhU3CBwg23PO9zJf0ABypQ3r52L4H37Q8Ph9DDC_DM0ZEgLzVI-A1CKNSI90TSwrY2TyadHalq9RVmdixlQ-E3kKVRQDDsdh4rGw0I7HiuP5HQsOSfBgRGDbk8LgJML-ZBSv8Gj7U_7fVxse46d91gTOxbY61s3i5b-zDoNw9OMcAsZQ-Vz94RRz2HOUwY4-PsHlsRvUd4ju5-yZCmmdG8b0dnXwyzW9WoyFdJgPUE-WaB5HG54PlgWo-mYNwV1rNWeJuLKxtaAreyyxpewjnTMVPY6wgMwbGdZhmxGsZftglG-aPaXTHfGspRhnSR0NCpohNmGbmsn7ZTILmTcxPkcOFWTcNN1or2_403BOGlJbwww7hlVsThvN6piLV6wkAqCLvZHSGgxvez0fbSl-E0-LId0gASoJZXUtd2VzdC0yMJoO.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
