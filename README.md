@@ -196,7 +196,7 @@ https://stream.fastpix.io/d9589391-560b-40eb-a8c8-5a54ce02cbdd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
-http://195.9.195.3:8080/hls/217083.m3u8
+https://streaming.cmtv.ru/f/QQLg4AiWaAE/llhls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="Кинозалы",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="Кинозалы",2Filmax
