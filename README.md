@@ -192,8 +192,6 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV Ultra
-https://streaming.cmtv.ru/m/swNgyHPcvQI/720.m3u8
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV Ultra
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="Кинозалы",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
