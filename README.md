@@ -268,7 +268,7 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
 https#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://i.imgur.com/se9urdN.png" group-title="Музыкальные",DTRMUSIC1
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://i.imgur.com/GuUJRw8.png" group-title="Музыкальные",DTRMUSIC1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLm2Pid.png" group-title="Музыкальные",Hits 360 HD
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
