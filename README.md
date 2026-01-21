@@ -151,52 +151,26 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="http://epg.one/img/1037.png" group-title="Кино",Кино ТВ HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2097/index.m3u8
-#EXTINF:-1 tvg-id="kineko" tvg-logo="http://epg.one/img/7314.png" group-title="Кино",Кинеко
-http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinoujas" tvg-logo="https://i.imgur.com/l5priN9.png" group-title="Кино",Киноужас
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2056/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mushskoe-kino" tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCvv6tT.png" group-title="Кино",Киносемья HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7244/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UO7PzOZ.png" group-title="Кино",Киномикс HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7249/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VY0ksEk.png" group-title="Кино",Киносвидание HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7245/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lZ1dhE5.png" group-title="Кино",Кинокомедия HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/7248/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино",.sci-fi
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
-#EXTINF:-1 tvg-id="blackhd" tvg-logo="http://epg.one/img/935.png" group-title="Кино",black HD
-http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iKf4l7J.png" group-title="Кино",Trash HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/6396/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/1371.png" group-title="Кино",Amedia 1
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/554/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="http://epg.one/img/2492.png" group-title="Кино",Amedia 2
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/510/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1 tvg-id="flixsnip" tvg-logo="http://epg.one/img/774.png" group-title="Кино",FlixSnip
-http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU
 #EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life
 http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="http://epg.one/img/401.png" group-title="Кино",Русский роман
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/906/index.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
