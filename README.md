@@ -457,7 +457,7 @@ http://45.11.139.43:8555/mig/index.m3u8
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV
 http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения",Velari TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1gZPZm.png" group-title="Армения",Velari TV
 http://185.57.68.33:80/233/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն
 http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
