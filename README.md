@@ -57,6 +57,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +4	
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/3023.png" group-title="Общероссийские",ТНТ +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-id="tnt4-hd" tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
@@ -85,6 +87,8 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
 https://vsd231.okcdn.ru/hls/9680650897965.m3u8/sig/-b-82WGkOYo/expires/1769062227308/srcIp/45.159.74.70/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/11266115706413/9680650897965_lowest/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
@@ -95,12 +99,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="pyatnizza-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 tvg-id="pyatnizza-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ
-https://tv.streams.baikal-telecom.net/U/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-id="yu-tv" tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
