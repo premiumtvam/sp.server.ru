@@ -465,3 +465,44 @@ http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/logo/bazmoc.png" group-title="Армения",Բազմոց TV
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png" group-title="Армения",Առաջին Ալիք HD
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png" group-title="Армения",Լուրեր HD
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5934.png" group-title="Армения",USA Armenia HD
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-id="h2-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2062.png" group-title="Армения",Հ2
+http://45.159.74.22/ArmeniansecondTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="armenia-tv" tvg-logo="https://i.imgur.com/ZaWExUo.png" group-title="Армения",Արմենիա TV HD
+http://45.159.74.22/Armeniatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5940.png" group-title="Армения",Free News HD
+http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="azatutyun-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2385.png" group-title="Армения",Ազատություն TV
+http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nor-hayastan-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/7084.png" group-title="Армения",նոր ՀԱՅԱՍՏԱՆ
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն
+http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV
+http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-rec="7" tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV
+http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
+http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2393.png" group-title="Армения",ԿԻՆՈՄԱՆ
+http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/bazmoc.png" group-title="Армения",Բազմոց TV
+http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
+http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="shoghakat-am" tvg-rec="7" tvg-logo="http://epg.one/img/2071.png" group-title="Армения",Շողակաթ
+http://45.159.74.22/ShoghakatTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.imgur.com/WTTAbAc.png",ARTN TV
+http://45.11.139.43:8555/artn/index.m3u8
+#EXTINF:-1 tvg-id="song-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/3360.png" group-title="Армения",SONGTV Armenia
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 tvg-id="fresh-tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
+http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
