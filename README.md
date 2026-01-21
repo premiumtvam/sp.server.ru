@@ -439,9 +439,9 @@ https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-rec="0" tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
 http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/shant.png" group-title="Армения",Շանթ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ
 http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/7866.png" group-title="Армения",Դելտա TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7jYfg7.png" group-title="Армения",Դելտա TV
 http://45.11.139.120:8555/delta/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/logo/fortuna.png" group-title="Армения",Ֆորտունա TV
 http://45.11.139.120:8555/fortuna/index.m3u8
@@ -455,7 +455,7 @@ http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="Армения",Արմաունթ TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2391.png" group-title="Армения",ՀԱՅ TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV
 http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения",Velari TV
 http://185.57.68.33:80/233/index.m3u8
