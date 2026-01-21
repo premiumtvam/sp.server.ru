@@ -459,11 +459,11 @@ https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/icon/velary.png" group-title="Армения",Velari TV
 http://185.57.68.33:80/233/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2625.png" group-title="Армения",Մուզզոն
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն
 http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/logo/deltamusic1.png" group-title="Армения",Delta Music
 http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.do.am/logo/deltatravel.png" group-title="Армения",Delta Travel
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/fitnes.png" group-title="Армения",Ֆիթնես TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
