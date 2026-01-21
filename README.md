@@ -86,7 +86,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/19230/index.m3u8
+https://vsd231.okcdn.ru/hls/9680650897965.m3u8/sig/-b-82WGkOYo/expires/1769062227308/srcIp/45.159.74.70/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/11266115706413/9680650897965_lowest/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",5 канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал +4
