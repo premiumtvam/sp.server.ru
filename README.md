@@ -197,8 +197,6 @@ https://kino-stream.online/hls/vhdvtv.m3u8
 https://kino-stream.online/hls/scripach.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix
 https://kino-stream.online/hls/kinomix.m3u8
-#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="Кинозалы",SeleCaoTV Фильм
-https://kino-stream.online/hls/selecaotv-film.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
