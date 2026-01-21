@@ -423,9 +423,9 @@ http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
 http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ
 http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2393.png" group-title="Армения",ԿԻՆՈՄԱՆ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mDnNFEi.png" group-title="Армения",ԿԻՆՈՄԱՆ
 http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/bazmoc.png" group-title="Армения",Բազմոց TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krJaLKS.png" group-title="Армения",Բազմոց TV
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
@@ -443,15 +443,15 @@ http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7jYfg7.png" group-title="Армения",Դելտա TV
 http://45.11.139.120:8555/delta/index.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/fortuna.png" group-title="Армения",Ֆորտունա TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Sf8hkA.png" group-title="Армения",Ֆորտունա TV
 http://45.11.139.120:8555/fortuna/index.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/kitayqtv.png" group-title="Армения",Կոտայք TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD4UM6i.png" group-title="Армения",Կոտայք TV
 http://45.11.139.120:8555/kotayq/index.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/geghama.png" group-title="Армения",Գեղամա TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV
 http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-logo="https://livemaralik.do.am/iconsarm/buntv.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/mig-tv.png" group-title="Армения",Միգ TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnekB4h.png" group-title="Армения",Միգ TV
 http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="Армения",Արմաունթ TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
