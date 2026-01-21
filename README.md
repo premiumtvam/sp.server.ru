@@ -230,8 +230,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 https://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="http://epg.one/img/923.png" group-title="Детский",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-id="ryzhij" tvg-logo="http://epg.one/img/2437.png" group-title="Детский",Рыжий
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2052/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Детский",Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Детский",СТС Kids
@@ -240,8 +238,6 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/555.png" group-title="Детский",Tiji
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
@@ -333,40 +329,14 @@ http://rtmp.one.by:2300
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0M6751.png" group-title="Познавательные",ММ-микромир HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18193/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/grZJngM.png" group-title="Познавательные",ММ-мегамир HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/18195/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WSpVqRA.png" group-title="Познавательные",TERRA
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/230/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2521.png" group-title="Познавательные",Нано ТВ
 http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EKPO0Pl.png" group-title="Познавательные",ТВ БРИКС
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-logo="http://epg.one/img/723.png" group-title="Познавательные",Наука 
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2155/index.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="glazamiturista" tvg-logo="https://i.imgur.com/HIPRx6l.png" group-title="Познавательные",Глазами Туриста HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2104/index.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://i.imgur.com/36RCtZq.png" group-title="Познавательные",Big Planet
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jezgLLZ.png" group-title="Познавательные",Galaxy 
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2010/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NKs3fR9.png" group-title="Познавательные",Космо HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/11065/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcCYxbn.png" group-title="Познавательные",History 
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/837/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MET9JIm.png" group-title="Познавательные",History 2
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/1052/index.m3u8
-#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2311.png" group-title="Познавательные",Приключения
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h264TS0.png" group-title="Познавательные",VF Путешествия
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/15515/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
@@ -379,18 +349,8 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-id="zagorodni" tvg-logo="https://i.imgur.com/NgYBHKs.png" group-title="Познавательные",Загородный
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/2099/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/648.png" group-title="Познавательные",RTG HD
-http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LmaotB6.png" group-title="Познавательные",HGTV
-http://str6.oxtve.live:8080/HGTV_HD/mpegts
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="home-4k" tvg-logo="http://epg.one/img/2745.png" group-title="Познавательные",Home 4K
-http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2801.png" group-title="Познавательные",Love Nature 4k
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
@@ -399,8 +359,6 @@ http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-hd-orig" tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic HD
-http://c3921155.edmonst.net/iptv/ZQHGFQ9PRYN859UHYGWY674B/14001/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-hd" tvg-rec="7" tvg-logo="http://epg.one/img/325.png" group-title="Познавательные",Discovery HD
