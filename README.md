@@ -181,8 +181,6 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/5HD76RP.png" group-title="Кинозалы",VHDV TV Ultra 
-https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",LEGION TV FHD
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
