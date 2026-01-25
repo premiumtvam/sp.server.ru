@@ -3,8 +3,6 @@
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый FHD
-https://kino-stream.online/hls/PerviyHD.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-id="pervyj-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3025.png" group-title="Общероссийские",Первый канал +7
@@ -183,9 +181,9 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",LEGION TV FHD
 https://kino-stream.online/hls/vhdvtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
 https://kino-stream.online/hls/scripach.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 https://kino-stream.online/hls/kinomix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
