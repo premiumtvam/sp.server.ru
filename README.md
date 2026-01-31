@@ -187,7 +187,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
-https://usb.bozztv.com/kinomix24/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/kinomix24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kino walk FHD
+https://kinowalk.hopto.org/kinowalk_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
