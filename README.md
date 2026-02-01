@@ -178,11 +178,9 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv 
 https://live.kinescopecdn.net/on-air/c5adb99f-c2ea-4393-a69f-fb3d7fafec2e/b8c9c878-f305-4ba0-9e02-dd72791744fd/720p/media.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv 
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 
