@@ -185,9 +185,6 @@ https://live.kinescopecdn.net/on-air/c5adb99f-c2ea-4393-a69f-fb3d7fafec2e/b8c9c8
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD
 https://live.kinescopecdn.net/on-air/c5adb99f-c2ea-4393-a69f-fb3d7fafec2e/b8c9c878-f305-4ba0-9e02-dd72791744fd/1080p/media.m3u8
 
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD тест
-https://m3u.ch/pl/fc3376942ef918b852f72cd2a6f90155_303976f742ed3393a7af5bf80b9ffb39.m3u
-
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
 https://live.kinescopecdn.net/preview/e8001cbb-fccd-452e-bb42-681288793be1/701487a9-a5dc-4ac2-a986-bc319d472f8c/1080p/media.m3u8
