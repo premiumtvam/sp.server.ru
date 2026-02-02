@@ -184,7 +184,10 @@ http://kinowalk.hopto.org/legion-tv_live
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv FHD
-https://live.kinescopecdn.net/preview/e8001cbb-fccd-452e-bb42-681288793be1/701487a9-a5dc-4ac2-a986-bc319d472f8c/1080p/media.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk FHD
+http://kinowalk.hopto.org/kinowalk_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 https://usb.bozztv.com/kinomix24/playlist.m3u8
