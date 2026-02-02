@@ -180,9 +180,6 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
-https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
-
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD тест
 http://kinowalk.hopto.org/legion-tv_live
 
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811
