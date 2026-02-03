@@ -191,7 +191,7 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 http://kinowalk.hopto.org/yurich_kinomix_live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",VideoArsenal FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",VideoArsenal FHD
 http://kinowalk.hopto.org/videoarsenal_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
