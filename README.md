@@ -194,6 +194,30 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",VideoArsenal FHD
 http://kinowalk.hopto.org/videoarsenal_live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",KinoJam FHD
+http://kinowalk.hopto.org/kinojam_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",MovieToper FHD
+http://kinowalk.hopto.org/movietoper_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Dimpon TV FHD
+http://kinowalk.hopto.org/dimpon_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",kinolampa FHD
+http://kinowalk.hopto.org/kinolampa_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",wihail FHD
+http://kinowalk.hopto.org/wihail_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Cinema Time FHD
+http://kinowalk.hopto.org/cinemaa_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",TimeToMovie FHD
+http://kinowalk.hopto.org/timetomovie_live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",TimeToHorror FHD
+http://kinowalk.hopto.org/timetohorror_live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
