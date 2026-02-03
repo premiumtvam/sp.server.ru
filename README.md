@@ -213,6 +213,9 @@ http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Cinema Time FHD
 http://kinowalk.hopto.org/cinemaa_live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Blockbusters Time FHD
+http://kinowalk.hopto.org/blockbusterstime_live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",TimeToMovie FHD
 http://kinowalk.hopto.org/timetomovie_live
 
