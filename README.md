@@ -195,14 +195,11 @@ http://kinowalk.hopto.org/kinojam_live
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w06pb8T.png" group-title="Кинозалы",Dimpon TV FHD
 http://kinowalk.hopto.org/dimpon_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",kinolampa FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa FHD
 http://kinowalk.hopto.org/kinolampa_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",wihail FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nac769O.png" group-title="Кинозалы",wihail FHD
 http://kinowalk.hopto.org/wihail_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Cinema Time FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIk1Gd8.png" group-title="Кинозалы",Cinema Time FHD
 http://kinowalk.hopto.org/cinemaa_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Blockbusters Time FHD
