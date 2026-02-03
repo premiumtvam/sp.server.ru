@@ -201,17 +201,13 @@ http://kinowalk.hopto.org/kinolampa_live
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GIk1Gd8.png" group-title="Кинозалы",Cinema Time FHD
 http://kinowalk.hopto.org/cinemaa_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Blockbusters Time FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time FHD
 http://kinowalk.hopto.org/blockbusterstime_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",TimeToMovie FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKgvCzR.png" group-title="Кинозалы",TimeToMovie FHD
 http://kinowalk.hopto.org/timetomovie_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",TimeToHorror FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8HHDq.png" group-title="Кинозалы",TimeToHorror FHD
 http://kinowalk.hopto.org/timetohorror_live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1vNR5Y.png" group-title="Кинозалы",Video_Prokat FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Video_Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
