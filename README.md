@@ -191,7 +191,7 @@ http://kinowalk.hopto.org/scripachtv_live
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal FHD
+#EXTINF:-1 tvg-id="49812" tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal FHD
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdIs4Aq.png" group-title="Кинозалы",KinoJam FHD
 http://kinowalk.hopto.org/kinojam_live
