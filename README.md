@@ -180,7 +180,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811"
+#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD orig
