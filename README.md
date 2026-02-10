@@ -225,7 +225,7 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812"
+#EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=50177"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD orig
@@ -234,7 +234,7 @@ https://kinescope.io/0cwN7hW1R99j4NS2NszKgJ/master.m3u8
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk FHD
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
+#EXTINF:-1 tvg-id="50177" tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix FHD
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-id="49812" tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal FHD
 http://kinowalk.hopto.org/videoarsenal_live
