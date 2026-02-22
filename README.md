@@ -258,6 +258,10 @@ http://kinowalk.hopto.org/timetohorror_live
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Akudji tv FHD
 http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",VHS Forever FHD
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 FHD
+http://kinowalk.hopto.org/kasseta_live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
