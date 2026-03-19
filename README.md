@@ -196,8 +196,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="kino24" tvg-logo="https://i.imgur.com/G9I8zkE.png" group-title="Кино",VHS-ка
-http://minsk-cache07t.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
@@ -220,8 +218,6 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life
 http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m4tw6ol.png" group-title="Кино",Мосфильм.Золотая коллекция
-https://minsk-cache07t.voka.tv/live/1124-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
