@@ -164,7 +164,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
-#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",ННТВ
+#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
