@@ -403,8 +403,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",V2BEAT HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="inrating" tvg-rec="0" tvg-logo="http://epg.one/img/6011.png" group-title="Музыкальные",INRATING TV HD
-http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="trace-urban" tvg-rec="0" tvg-logo="http://epg.one/img/5597.png" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
