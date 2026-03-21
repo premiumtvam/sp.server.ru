@@ -299,28 +299,16 @@ http://kinowalk.hopto.org/kasseta_live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="Новости",Настоящее время HD
 https://clck.ru/3F6ZUq
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRWcCDP.png" group-title="Новости",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Новости",360 HD
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/743.png" group-title="Новости",РБК HD
-http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.one/img/2078.png" group-title="Новости",МИР-24 HD
-http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://epg.one/img/334.png" group-title="Новости",Москва24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
-#EXTINF:-1 tvg-logo="http://epg.one/img/2269.png" group-title="Новости",Russia Today HD
-http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
-#EXTINF:-1 tvg-id="dojd" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="Новости",ДОЖДЬ HD
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b8192000.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
