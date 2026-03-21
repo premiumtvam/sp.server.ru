@@ -493,7 +493,7 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="https://i.imgur.com/gRiZ0Qw.png" group-title="Общероссийские",Матч! ТВ
+#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="https://i.imgur.com/gRiZ0Qw.png" group-title="Спортивные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV HD
