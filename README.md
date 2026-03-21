@@ -67,7 +67,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/3008.png" group-title="Общероссийские",СТС +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/3008.png" group-title="Общероссийские",СТС +7
+#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="http://epg.one/img/79.png" group-title="Общероссийские",СТС +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love
@@ -178,6 +178,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +7
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
@@ -484,6 +487,9 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-id="ctc-hd" tvg-logo="https://i.imgur.com/gRiZ0Qw.png" group-title="Общероссийские",Матч! ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
