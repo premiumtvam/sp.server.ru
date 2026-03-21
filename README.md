@@ -76,9 +76,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 tvg-id="ctc-love" tvg-logo="http://epg.one/img/1322.png" group-title="Общероссийские",СТС Love +7
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
 #EXTINF:-1 tvg-id="tnt-hd" tvg-logo="http://epg.one/img/1767.png" group-title="Общероссийские",ТНТ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
@@ -137,8 +134,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-hd" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus-hd" tvg-rec="7" tvg-logo="http://epg.one/img/6669.png" group-title="Общероссийские",Звезда Плюс
-https://vsd231.okcdn.ru/hls/9680650897965.m3u8/sig/-b-82WGkOYo/expires/1769062227308/srcIp/45.159.74.70/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/11266115706413/9680650897965_lowest/index.m3u8
 #EXTINF:-1 tvg-id="5kanal" tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
