@@ -53,7 +53,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2964.png" group-title="Общероссийские",НТВ +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2964.png" group-title="Общероссийские",НТВ +7
+#EXTINF:-1 tvg-id="ntv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-rec="7" tvg-logo="http://epg.one/img/7258.png" group-title="Общероссийские",НТВ Мир
@@ -61,7 +61,7 @@ https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3020.png" group-title="Общероссийские",Мир +2
+#EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="Общероссийские",Мир +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 tvg-id="mir-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3020.png" group-title="Общероссийские",Мир +4
