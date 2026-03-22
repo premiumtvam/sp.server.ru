@@ -200,6 +200,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="4e" tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
