@@ -415,6 +415,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",FON MUSIC
 https://stream01.vnet.am/Channel_122/mono.m3u8
+#EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",FON MUSIC FHD
+https://river-4-431.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/_6q9Y8Y3Xmw49DBUvbREDw/1774783922/5a294ae1ed12c44c7053301fb5fa9ba0/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные",Bridge TV
@@ -492,6 +494,20 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE
+https://river-3-391.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/lDkZhE5IT3ZoD6fEaUqn-Q/1774783275/e5bacac3b8e730791d4cab20ae81cd8f/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",SKY SPORT MIX
+https://river-6-601.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/wlnrPBzXui_UpbrcDeHhuQ/1774783543/a8983f2de47db830f6a6977cb71a13df/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",SKY SPORT F1
+https://river-3-350.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/6Rd6F3fnckETymebbs9rUQ/1774783612/1fd968ce15629416dbc4e45f2b4fcf11/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",SKY SPORT TENNIS
+https://river-4-423.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/wEkcW8hW1BWQUwIzD5Q-xQ/1774783668/5f5dc9d64b43dfc740e92f2bdf2b0d38/720p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",beIN SPORTS XTRA
+https://river-6-601.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/2IWoOL-3hjhtNsGoivdoKQ/1774783767/05550e441b09aeec53e60de66b6c47bf/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",NBA TV
+https://river-4-421.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/HtwAoRaO5Ic2_X-M-6e7Sw/1774783100/d01241e9fd2bc2d65dbf6d74cca02f89/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",Red Bull TV
+https://river-6-601.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/yw1dpiSlRESt7iF9gmYtUw/1774783419/45b30eef1b89857182b03db2c25631d9/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUwpedo.png" group-title="Спортивные",Motor Sport
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
