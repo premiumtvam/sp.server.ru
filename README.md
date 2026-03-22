@@ -395,8 +395,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="http://epg.one/img/382.png" group-title="Музыкальные",MTV Live HD
-http://stream01.vnet.am/Channel_117/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
@@ -422,8 +420,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 https://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",FON MUSIC FHD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CDSoEy3cC2NFV1quU4ns0Q&e=2074183309&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXrxb9l.png" group-title="Музыкальные",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные",Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
@@ -513,11 +509,11 @@ https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=-d
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=n3wquOK0Hjepj7R5UAOsgA&e=2074182214&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wUwpedo.png" group-title="Спортивные",Motor Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7f7zax.png" group-title="Спортивные",Motor Sport
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",NHL Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=oHtbUFxMYippk-wF8J4-LA&e=2074182281&scheme=https
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
 http://stream01.vnet.am/Channel_113/mono.m3u8
