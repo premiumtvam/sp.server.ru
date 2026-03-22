@@ -272,7 +272,7 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49812,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=50177"
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 01 w.tv
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.aEFcXOSt7M6J.m3u8
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 02 VK.live
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 02 vk.live
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 03 kinescope
 https://kinescope.io/0cwN7hW1R99j4NS2NszKgJ/master.m3u8
