@@ -115,6 +115,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 tvg-id="ren-tv-hd" tvg-rec="7" tvg-logo="http://epg.one/img/3033.png" group-title="Общероссийские",РЕН ТВ +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
