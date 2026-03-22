@@ -195,13 +195,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
 https://smotret.tv/iframes/krasnaya-liniya.m3u8
+#EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Мой мир
+https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=5w6YzNzFFdO0gXEeDY5D3w&e=2074183835&scheme=https
 #EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/R2hfFo8.png" group-title="Общероссийские",ОТС HD
+#EXTINF:-1 tvg-id="otc" tvg-rec="7" tvg-logo="https://i.imgur.com/R2hfFo8.png" group-title="Общероссийские",ОТС HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/zg7obFT.png" group-title="Общероссийские",Краснодар HD
+#EXTINF:-1 tvg-id="krasnodar" tvg-rec="7" tvg-logo="https://i.imgur.com/zg7obFT.png" group-title="Общероссийские",Краснодар HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2543.png" group-title="Общероссийские",СТВ
