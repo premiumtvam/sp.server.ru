@@ -499,7 +499,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Спортивные",SKY SPORT F1
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",SKY SPORT TENNIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",SKY SPORT TENNIS
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1E4DZP9.png" group-title="Спортивные",beIN SPORTS XTRA
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=Zp0AjjqUOk7ZMm5zVOBJnA&e=2074182123&scheme=https
