@@ -317,6 +317,9 @@ http://stream01.vnet.am/Rossia24/mono.m3u8
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRWcCDP.png" group-title="Новости",Известие HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин
