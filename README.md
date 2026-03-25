@@ -396,8 +396,12 @@ http://89.179.247.144/hls/mixm.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="deluxedance-tv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power love tv HD
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power dance tv HD
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnwBe6B.png" group-title="Музыкальные",Baraza Music HD
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV
