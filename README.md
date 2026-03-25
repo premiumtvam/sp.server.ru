@@ -232,7 +232,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кино",КИНО и ЖИЗНЬ
+#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="blob:https://imgur.com/f04ebab3-7fc0-4d24-a994-6db504720d6c" group-title="Кино",КИНО и ЖИЗНЬ
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-id="vse tv" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кино",Малдер Всё ТВ
 http://kinowalk.hopto.org/vsetv_live
