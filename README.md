@@ -490,17 +490,21 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE HD
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Спортивные",SKY SPORT F1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Спортивные",SKY SPORT F1 HD
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",SKY SPORT TENNIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",SKY SPORT TENNIS HD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1E4DZP9.png" group-title="Спортивные",beIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",Unbeaten HD
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=YffKMsqgeh2Y2rdcsAS6iQ&e=2074426772&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1E4DZP9.png" group-title="Спортивные",beIN SPORTS XTRA HD
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=Zp0AjjqUOk7ZMm5zVOBJnA&e=2074182123&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1E4DZP9.png" group-title="Спортивные",Sports Grid HD
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=_qnpor080IHZsdt3pWXK7Q&e=2074426561&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVULflK.png" group-title="Спортивные",NBA TV
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=-d4lz2O0ff92cpSTOZeiig&e=2074182181&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvcaCQc.png" group-title="Спортивные",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvcaCQc.png" group-title="Спортивные",Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=n3wquOK0Hjepj7R5UAOsgA&e=2074182214&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kztGpvE.png" group-title="Спортивные",TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
@@ -508,7 +512,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pX
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network HD
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=oHtbUFxMYippk-wF8J4-LA&e=2074182281&scheme=https
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
 http://stream01.vnet.am/Channel_113/mono.m3u8
