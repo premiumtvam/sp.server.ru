@@ -492,7 +492,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE HD
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT MIX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkYLsbL.png" group-title="Спортивные",SKY SPORT MIX HD
 https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=XMoYvFCbhiUN-iDYp8dAgg&e=2074427651&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="Спортивные",SKY SPORT F1 HD
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
