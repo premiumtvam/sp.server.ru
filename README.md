@@ -476,7 +476,7 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
-https://tv.tvcdnpotok.com/pzg65UWi34AqOJKbf_HLSA/545/1774483846/index.m3u8
+https://tvcdnpotok.com/s_KKy6reMeEee-FhD93ANg/545/1774484299/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://tv.tvcdnpotok.com/s23SjMnNLd6G89-8dWZHTg/2011/1774483417/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
