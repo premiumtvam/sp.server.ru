@@ -328,6 +328,8 @@ https://clck.ru/3F6ZUK
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",RT News HD
+https://bl.rutube.ru/livestream/e553770139adc990ee5f54972ff4121b/index.m3u8?s=iIIGTevMusHoEmUi81AsVg&e=2074433640&scheme=https
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/8Ev3XKm.png" group-title="Детский",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/v2fi0Dn.png" group-title="Детский",Ералаш
