@@ -602,7 +602,7 @@ http://45.11.139.120:8555/kotayq/index.m3u8
 http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Арма тв
+#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Արմա TV
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnekB4h.png" group-title="Армения",Միգ TV
 http://45.11.139.43:8555/mig/index.m3u8
