@@ -256,8 +256,6 @@ http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 tvg-id="sci-fi" tvg-logo="http://epg.one/img/516.png" group-title="Кино",.sci-fi
-http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
@@ -604,6 +602,8 @@ http://45.11.139.120:8555/kotayq/index.m3u8
 http://45.11.139.43:8555/geghama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Арма тв
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnekB4h.png" group-title="Армения",Միգ TV
 http://45.11.139.43:8555/mig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV
