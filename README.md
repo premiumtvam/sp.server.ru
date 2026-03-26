@@ -474,15 +474,15 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
-https://clck.ru/3SkuiN
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_HGTV/index.m3u8
 #EXTINF:-1 tvg-id="rtgtv" tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG TV HD
-https://clck.ru/3SkvAF
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_RTG/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV
 https://clck.ru/3SkvCT
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature
-http://sgw.tlgx.ru/sgw/CH_S02_LOVENATURE_4K/mono.m3u8
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
