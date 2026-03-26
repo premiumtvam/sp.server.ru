@@ -213,10 +213,10 @@ https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/vari
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jy5Roz0.png" group-title="Общероссийские",Югра HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Девятка ТВ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nRnybs.png" group-title="Общероссийские",Девятка ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вариант V ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyHm9Y7.png" group-title="Общероссийские",Вариант V ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2294.png" group-title="Общероссийские",БелРос
