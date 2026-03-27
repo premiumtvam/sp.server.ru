@@ -423,7 +423,7 @@ https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" group-title="Музыкальные",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
