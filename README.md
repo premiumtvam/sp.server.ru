@@ -334,6 +334,9 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:-1 tvg-id="москва-24" tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCupMAw.png" group-title="Новости",Сочи24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
