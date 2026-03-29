@@ -250,12 +250,21 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
 http://stream01.vnet.am/Bober/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Кино",Кино ТВ HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Comedy HD.png" group-title="КИНО",Viju+ Comedy HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ott.watch/stream/D17LBTRCERA/201.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Premiere HD.png" group-title="КИНО",Viju+ Premiere HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ott.watch/stream/D17LBTRCERA/202.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Megahit HD.png" group-title="КИНО",Viju+ Megahit HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ott.watch/stream/D17LBTRCERA/200.m3u8
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="https://i.imgur.com/27UD1ip.png" group-title="Кино", Кино ТВ
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-#EXTINF:-1 tvg-id="detskij-mir-hd" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
+#EXTINF:-1 tvg-id="romancetv" tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="vse tv" tvg-logo="https://i.imgur.com/hyOXtKj.png" group-title="Кино",Малдер Всё ТВ
 http://kinowalk.hopto.org/vsetv_live
