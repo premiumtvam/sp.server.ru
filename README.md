@@ -523,18 +523,6 @@ https://stream01.vnet.am/ShansonTv/index.m3u8
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
 http://stream01.vnet.am/ZooTv/mono.m3u8
-#EXTINF:-1 tvg-id="704" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/154/1_0_16_3B7_D0_1_3200000_0_0_0.png",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=TiviMate
-http://tv.padarok.workers.dev/?ID=704
-#EXTINF:-1 tvg-id="705" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/155/4097_0_1_3D_521_D_0_0_0_0.png",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=TiviMate
-http://tv.padarok.workers.dev/?ID=705
-#EXTINF:-1 tvg-id="706" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/156/1_0_16_3B8_D0_1_3200000_0_0_0.png",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=TiviMate
-http://tv.padarok.workers.dev/?ID=706
-#EXTINF:-1 tvg-id="707" tvg-logo="http://portal.podarok-tv.top:8180/media/upload/epg_icons/157/4097_0_1_5F_521_D_0_0_0_0.png",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=TiviMate
-http://tv.padarok.workers.dev/?ID=707
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
