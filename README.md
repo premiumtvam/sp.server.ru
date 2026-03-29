@@ -572,6 +572,8 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pX
 https://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV HD
+https://smotret.tv/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network HD
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=oHtbUFxMYippk-wF8J4-LA&e=2074182281&scheme=https
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
