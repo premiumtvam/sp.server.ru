@@ -503,6 +503,8 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel Channel
+https://s.tvua.biz/tSfJ5E_i8X7hovql0mxARg/113/1774795622/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
