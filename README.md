@@ -652,3 +652,5 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV
 http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0OTpJC.png" group-title="Армения",ТБН Армения
+https://164475.gvideo.io/cmaf/164475_650646/media_1.m3u8
