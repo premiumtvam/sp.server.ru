@@ -590,6 +590,8 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV 
 https://smotret.tv/error.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXRJhlG.png" group-title="Спортивные",Vital-sport-drive
+https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network HD
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=oHtbUFxMYippk-wF8J4-LA&e=2074182281&scheme=https
 #EXTINF:-1 tvg-id="кхл" tvg-logo="http://epg.one/img/2048.png" group-title="Спортивные",KHL
