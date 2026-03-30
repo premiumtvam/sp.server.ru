@@ -592,6 +592,8 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 https://smotret.tv/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yktYU0V.png" group-title="Спортивные",XFC-tv-fightworld
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdmyPuN.png" group-title="Спортивные",Impact-wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXRJhlG.png" group-title="Спортивные",Vital-sport-drive
 https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Hehs4g.png" group-title="Спортивные",Телеканал Волейбол
