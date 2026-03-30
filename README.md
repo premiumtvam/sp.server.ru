@@ -518,7 +518,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u
 #EXTINF:-1 tvg-id="Travel Channel" tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel Channel HD
 https://s.tvua.biz/tSfJ5E_i8X7hovql0mxARg/113/1774795622/index.m3u8
 #EXTINF:-1 tvg-id="Travel Adventure" tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
-https://s.domatv.net/J4-C4O-uXBgWBw-fHZpLYg/112/1774797385/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
