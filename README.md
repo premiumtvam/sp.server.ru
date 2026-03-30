@@ -598,6 +598,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Hehs4g.png" group-title="Спортивные",Телеканал Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=XpblTuMfC3gx6m2LxoYsYQ&e=2074857287&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocfJ7p3.png" group-title="Спортивные",Bek-tv-sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AN7EPB5.png" group-title="Спортивные",Horse-and-country-tv
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WSB0k5v.png" group-title="Спортивные",NHL Network HD
