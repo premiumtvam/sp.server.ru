@@ -393,11 +393,11 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="mtv-russia" tvg-logo="https://i.imgur.com/gAavCiR.png" group-title="Музыкальные",MTV-russia
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=45105&token=d27f3227d5c67e39ec7817180544581e&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-00S" tvg-logo="https://i.imgur.com/gAavCiR.png" group-title="Музыкальные",MTV-00 S
+#EXTINF:-1 tvg-id="mtv-00S" tvg-logo="https://i.imgur.com/qhiyxXN.png" group-title="Музыкальные",MTV-00 S
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50344&token=87bcc3cfe19edf222dd80b5b9f941e2e&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-80S" tvg-logo="https://i.imgur.com/gAavCiR.png" group-title="Музыкальные",MTV-80 S
+#EXTINF:-1 tvg-id="mtv-80S" tvg-logo="https://i.imgur.com/k1Hg2dW.png" group-title="Музыкальные",MTV-80 S
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=41188&token=ac540d42ff70fc5123c3e7aa23247b49&server=v2.catcast.tv
-#EXTINF:-1 tvg-id="mtv-90S" tvg-logo="https://i.imgur.com/gAavCiR.png" group-title="Музыкальные",MTV-90 S
+#EXTINF:-1 tvg-id="mtv-90S" tvg-logo="https://i.imgur.com/CKkL2GP.png" group-title="Музыкальные",MTV-90 S
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=46538&token=52464b88bf8478b745f782c70b35c9a8&server=v2.catcast.tv
 #EXTINF:-1 tvg-id="Oxygen Music" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
 https://clck.ru/3SkvFe
