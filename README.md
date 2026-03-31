@@ -582,8 +582,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjUUZc.png" group-title="Спортивные",MLB TV
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alrZzs4.png" group-title="Спортивные",UFA TV 
-https://smotret.tv/error.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yktYU0V.png" group-title="Спортивные",XFC-tv-fightworld
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UdmyPuN.png" group-title="Спортивные",Impact-wrestling
