@@ -618,7 +618,7 @@ http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ
 http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV
-http://45.11.139.43:8555/geghama/index.m3u8
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://i.imgur.com/lsAmAuw.png" group-title="Армения",.Արմա TV
