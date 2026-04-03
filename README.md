@@ -200,7 +200,7 @@ https://smotret.tv/iframes/krasnaya-liniya.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEaRfMj.png" group-title="Общероссийские",Ника ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=LK9eQ9WlB_sza-AC0zkIxA&e=2075201912&scheme=https
 #EXTINF:-1 tvg-id="ннтв" tvg-rec="7" tvg-logo="https://i.imgur.com/BKkjft6.png" group-title="Общероссийские",ННТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
