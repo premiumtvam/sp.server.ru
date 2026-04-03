@@ -213,7 +213,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/va
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KaUROZP.png" group-title="Общероссийские",12 канал HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот тв HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1mxtx5.png" group-title="Общероссийские",Вот ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jy5Roz0.png" group-title="Общероссийские",Югра HD
