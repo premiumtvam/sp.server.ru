@@ -247,6 +247,8 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhauotH.png" group-title="Общероссийские",Енисей HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4sriJz.png" group-title="Общероссийские",RUTUBE TV HD
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=8dThnR1JWxsSsj-ol_CkAw&e=2075222689&scheme=https
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
