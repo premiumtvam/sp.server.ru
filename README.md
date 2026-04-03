@@ -406,10 +406,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSaRMkF.png" group-title="Музыкальные",Feva Music
-https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13hCjTs.png" group-title="Музыкальные",NRG 91 Music
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Deluxe Music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="Deluxe Dance" tvg-rec="0" tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance
