@@ -389,8 +389,7 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="Oxygen Music" tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные", Oxygen Music HD
 https://clck.ru/3SkvFe
 #EXTINF:-1 tvg-id="mtv90" tvg-logo="https://i.imgur.com/CKkL2GP.png" group-title="Музыкальные",MTV 90X
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://v2.catcast.tv/content/50106/index.m3u8
+http://v2.catcast.tv/content/50106/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV" tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zfLkYBXbLUooTlDR_rFgzQ&e=2074521981&scheme=https
 #EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
