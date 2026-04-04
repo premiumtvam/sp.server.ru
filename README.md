@@ -255,9 +255,9 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",Star Media кино 1 HD
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=eh2IDGnaj8gIa6jI2LLTmg&e=2075296593&scheme=https
-#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",2Star Media кино 2 HD
+#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",Star Media кино 2 HD
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=svB8GkF2ocH9xYTeq41Orw&e=2075298162&scheme=https
-#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",2Star Media кино 3 HD
+#EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dDswaTy.png" group-title="Кино",Star Media кино 3 HD
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=_43IEmbTK3xBw5jpnnOh9Q&e=2075298694&scheme=https
 #EXTINF:-1 tvg-id="kinoijizn" tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
