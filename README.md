@@ -517,7 +517,7 @@ http://46.53.208.4:80/live/964.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra
-http://46.53.208.4:80/live/1500.m3u8
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
