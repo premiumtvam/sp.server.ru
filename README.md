@@ -277,7 +277,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Hollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15WuL0v.png" group-title="Кино",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
