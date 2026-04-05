@@ -163,6 +163,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 tvg-id="pyatnizza-hd" tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=keG413sRfY8MHQwYZjBOaw&e=2075378670&scheme=https
 #EXTINF:-1 tvg-id="subota-hd" tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
