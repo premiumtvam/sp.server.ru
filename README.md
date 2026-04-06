@@ -277,8 +277,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15WuL0v.png" group-title="Кино",Hollywood
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
@@ -503,8 +501,6 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="Waterbear" tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5SmfGw.png" group-title="Познавательные",Galaxy
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
@@ -518,8 +514,6 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UGRA_TRAVEL" tvg-logo="https://i.imgur.com/wqNJhDn.png" group-title="Познавательные",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel Channel HD
-https://s.pokaz.me/jx1NfzhtCiYxBOJRWqJJxw/113/1775478324/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
