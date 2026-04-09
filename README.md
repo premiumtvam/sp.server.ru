@@ -495,8 +495,14 @@ https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8Y
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
+https://clck.ru/3T2YZK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",Terra HD
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
+https://clck.ru/3T2YaD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",TRAVEL CHANNEL HD
+https://clck.ru/3T2YWd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3V19aa.png" group-title="Познавательные",Travel+Adventure HD
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
@@ -509,6 +515,8 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature HD
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet 
