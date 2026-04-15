@@ -412,7 +412,7 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
-http://kino-stream.online:8080/musiced90
+http://kino-stream.online:8080/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
