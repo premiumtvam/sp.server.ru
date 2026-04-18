@@ -251,6 +251,8 @@ logo="https://static.mts.ru/dpc_upload/contents/482/150x150/epg553.png" group-ti
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим Любовь HD
+https://stream.smotrim.ru/hls/fasttv01/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVWJxgO.png" group-title="Общероссийские",Каскад тв
