@@ -414,6 +414,11 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIydRuW.png" group-title="Музыкальные",MAFI2A HD
 https://fl1003.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/xF9bQDP.png" group-title="Музыкальные",MGM MUSIC HD
+http://kino-stream.online:8080/mgm
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://kino-stream.online:8080/eurodance90
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
