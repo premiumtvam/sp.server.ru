@@ -400,14 +400,6 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
-https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock HD
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=zpSN3jAJ9AC8SlOcJqqkKw&e=2076669370&scheme=https
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -421,18 +413,24 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
+https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock HD
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=zpSN3jAJ9AC8SlOcJqqkKw&e=2076669370&scheme=https
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",FON MUSIC
 https://stream01.vnet.am/Channel_122/mono.m3u8
 #EXTINF:-1 tvg-id="680" tvg-logo="http://epg.one/img/680.png" group-title="Музыкальные",FON MUSIC FHD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=CDSoEy3cC2NFV1quU4ns0Q&e=2074183309&scheme=https
+#EXTINF:-1 tvg-id="rutv" tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",RU.TV HD
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=NKI9YQarYYdkmRCh_pmLRg&e=2074181255&scheme=https
 #EXTINF:-1 tvg-id="ActivaTV" tvg-logo="https://i.imgur.com/aTrqfYZ.png" group-title="Музыкальные",Activa TV HD
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zfLkYBXbLUooTlDR_rFgzQ&e=2074521981&scheme=https
 #EXTINF:-1 tvg-id="vevopop" tvg-logo="https://i.imgur.com/6eluDM6.png" group-title="Музыкальные",Vevo Pop HD
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
-#EXTINF:-1 tvg-id="rutv" tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",RU.TV HD
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=NKI9YQarYYdkmRCh_pmLRg&e=2074181255&scheme=https
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://i.imgur.com/GuUJRw8.png" group-title="Музыкальные",DTRMUSIC1 HD
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ReU9da.png" group-title="Музыкальные",m2o TV HD
@@ -445,6 +443,8 @@ http://kino-stream.online:8080/mgm
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://kino-stream.online:8080/eurodance90
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-id="mixtv" tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
