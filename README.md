@@ -400,6 +400,8 @@ http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nid4Jt0.png" group-title="Музыкальные",00s Music TV
+https://v2.catcast.tv/content/38161/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
 https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
