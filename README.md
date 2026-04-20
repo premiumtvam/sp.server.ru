@@ -195,6 +195,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="otp" tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР HD
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=kIG6m8xJfKpOHnDekftm4w&e=2076668822&scheme=https
 #EXTINF:-1 tvg-id="8kanal" tvg-logo="https://i.imgur.com/pYHhWVZ.png" group-title="Общероссийские",8 канал HD
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya liniya" tvg-rec="7" tvg-logo="http://epg.one/img/2476.png" group-title="Общероссийские",Красная линия
