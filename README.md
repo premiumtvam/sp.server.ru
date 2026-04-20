@@ -400,8 +400,6 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
 https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные",Oxygen Music   
-https://tplay.live/originals/oxygen-music/index.m3u8
 #EXTINF:-1 tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
