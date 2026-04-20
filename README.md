@@ -413,7 +413,7 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",MUSIC+ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2h9UTuh.png" group-title="Музыкальные",MUSIC+ TV
 https://live20.bozztv.com/giatvplayout7/giatv-211432/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
 https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
