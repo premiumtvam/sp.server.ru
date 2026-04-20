@@ -445,6 +445,8 @@ http://kino-stream.online:8080/mgm
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",Eurodance 90s HD
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://kino-stream.online:8080/eurodance90
+#EXTINF:-1 tvg-logo="	https://i.imgur.com/NrhEU8s.png" group-title="Музыкальные",VIVA MUSIC HD
+https://live20.bozztv.com/giatvplayout7/giatv-211365/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://epg.one/img/4658.png" group-title="Музыкальные",VIVA RU HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
