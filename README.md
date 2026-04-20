@@ -414,7 +414,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://fl1003.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQAtDVp.png" group-title="Музыкальные",Retro music tv
 https://live20.bozztv.com/giatvplayout7/giatv-209366/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные",Oxygen Music HD  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhtmVv5.png" group-title="Музыкальные",Oxygen Music   
 https://tplay.live/originals/oxygen-music/index.m3u8
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/xF9bQDP.png" group-title="Музыкальные",MGM MUSIC HD
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -428,9 +428,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Deluxe Music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-rec="0" tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="Deluxe Dance" tvg-rec="0" tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance
+#EXTINF:-1 tvg-id="Deluxe Dance" tvg-rec="0" tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=qhzajbtrKbwOd6XCjDmajg&e=2074785241&scheme=https
 #EXTINF:-1 tvg-id="povertv" tvg-rec="0" tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power tv HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -454,9 +454,9 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV
+#EXTINF:-1 tvg-id="spirit-tv" tvg-rec="0" tvg-logo="http://epg.one/img/4657.png" group-title="Музыкальные",SPIRIT TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV
+#EXTINF:-1 tvg-id="zerouno-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5484.png" group-title="Музыкальные",Zerouno TV HD
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w891012176.m3u8
 #EXTINF:-1 tvg-id="beat-tv" tvg-rec="0" tvg-logo="http://epg.one/img/5483.png" group-title="Музыкальные",V2BEAT HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
