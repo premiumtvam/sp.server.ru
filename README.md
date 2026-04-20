@@ -479,13 +479,13 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC 
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2304.png" group-title="Познавательные",Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный HD
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=mGd5reDNxRRy8rbAEWMA2A&e=2074428035&scheme=https
 #EXTINF:-1 tvg-id="istoria" tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
@@ -513,9 +513,9 @@ https://clck.ru/3T2YWd
 http://46.53.208.4:80/live/964.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета HD
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета 
 https://stream01.vnet.am/365Dney/index.m3u8
-#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV
+#EXTINF:-1 tvg-id="4K Travel TV" tvg-logo="https://i.imgur.com/LJUWCMS.png" group-title="Познавательные",4K Travel TV HD
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -539,7 +539,7 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
 http://stream01.vnet.am/ZooTv/mono.m3u8
