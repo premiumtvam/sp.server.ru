@@ -429,8 +429,6 @@ https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=zf
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://i.imgur.com/GuUJRw8.png" group-title="Музыкальные",DTRMUSIC1 HD
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIydRuW.png" group-title="Музыкальные",MAFI2A HD
-https://fl1003.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="	https://i.imgur.com/xF9bQDP.png" group-title="Музыкальные",MGM MUSIC HD
 #EXTVLCOPT:User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://kino-stream.online:8080/mgm
