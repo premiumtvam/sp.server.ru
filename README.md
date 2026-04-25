@@ -270,37 +270,37 @@ http://stream01.vnet.am/Bober/index.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance tv 
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-id="kino 1 int" tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
+#EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="detskoe-kino int" tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
+#EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="kino24" tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="cinema" tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mushskoe-kino" tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
 http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
+#EXTINF:-1 tvg-logo="http://epg.one/img/2233.png" group-title="Кино",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
+#EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD
 http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life
 http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
+#EXTINF:-1 tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD 
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion tv FHD 
@@ -340,9 +340,9 @@ https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Новости",360 HD
 https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 http://stream01.vnet.am/Rossia24/mono.m3u8
-#EXTINF:-1 tvg-id="москва-24" tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
@@ -355,41 +355,41 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",RT News HD
 https://bl.rutube.ru/livestream/e553770139adc990ee5f54972ff4121b/index.m3u8?s=iIIGTevMusHoEmUi81AsVg&e=2074433640&scheme=https
-#EXTINF:-1 tvg-id="chipdeil.ru" tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
+#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-id="smayltv" tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=hdhbWG242Vv2cqtaLxhXpw&e=2074434608&scheme=https
-#EXTINF:-1 tvg-id="radostmoya" tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
 https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L4odvTX2m8IkYp-7ZTKag&e=2074434863&scheme=https
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-logo="http://epg.one/img/423.png" group-title="Детский",Nickelodeon HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/423.png" group-title="Детский",Nickelodeon HD
 http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="http://epg.one/img/2481.png" group-title="Детский",СТС Kids
+#EXTINF:-1 tvg-logo="http://epg.one/img/2481.png" group-title="Детский",СТС Kids
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
-#EXTINF:-1 tvg-id="mult-hd" tvg-logo="http://epg.one/img/1332.png" group-title="Детский",Мульт HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/1332.png" group-title="Детский",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-id="karusel-hd" tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="misic 1 int" tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
+#EXTINF:-1 tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="misic 2 int" tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
+#EXTINF:-1 tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
