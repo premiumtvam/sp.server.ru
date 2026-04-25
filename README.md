@@ -525,7 +525,7 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",Fast Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",FAST SPORTS HD
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5700.png" group-title="Спортивные",FC REAL MADRID TV HD
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
