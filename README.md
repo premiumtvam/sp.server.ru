@@ -212,6 +212,9 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O69K23W.png" group-title="Общероссийские",Волгоград 24 HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E78Y0Az.png" group-title="Общероссийские",Волгоград 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEaRfMj.png" group-title="Общероссийские",Ника ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=LK9eQ9WlB_sza-AC0zkIxA&e=2075201912&scheme=https
@@ -247,8 +250,6 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2540.png" group-title="Общероссийские",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://static.mts.ru/dpc_upload/contents/482/150x150/epg553.png" group-title="Общероссийские",Волгоград 1 HD
-https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
