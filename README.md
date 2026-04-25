@@ -278,9 +278,9 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-logo="http://epg.one/img/1584.png" group-title="Кино",Мужское кино HD
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/566.png" group-title="Кино",Кинопремьера HD
 http://stream02.vnet.am/Kinopremera/mono.m3u8
