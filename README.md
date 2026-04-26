@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz"
-#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские",Первый канал 
+#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские 🇷🇺",Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый канал HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские 🇷🇺",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Общероссийские",Первы канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
