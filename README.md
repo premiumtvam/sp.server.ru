@@ -288,6 +288,10 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",НСТ 
 http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",Amedia 1
+https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/518.png" group-title="Кино",Amedia 2
+https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2007.png" group-title="Кино",Amedia hit HD 
 http://stream01.vnet.am/Nauka/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1372.png" group-title="Кино",Amedia Premium HD 
@@ -515,6 +519,8 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
 https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",АВТО 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ygeAADY.png" group-title="Спортивные",Тонус ТВ
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2541.png" group-title="Спортивные",Беларусь 5 HD
