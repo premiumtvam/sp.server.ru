@@ -307,8 +307,6 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion TV HD 
-http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
@@ -321,8 +319,6 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w06pb8T.png" group-title="Кинозалы",Dimpon TV HD
-http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time HD
