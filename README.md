@@ -638,6 +638,3 @@ http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
 http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",тест1
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8
