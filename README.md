@@ -307,6 +307,8 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="Кинозалы",Legion TV HD  
+http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
@@ -495,6 +497,8 @@ https://stream01.vnet.am/365Dney/index.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n74ktcu.png" group-title="Познавательные",Water bear HD
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdEGZYl.png" group-title="Познавательные",Живая Планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
