@@ -390,6 +390,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
+http://stream02.vnet.am/Karusel/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +4
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +7
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм HD
@@ -402,8 +413,6 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1332.png" group-title="Детский",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
-http://stream02.vnet.am/Karusel/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
