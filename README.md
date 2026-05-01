@@ -372,6 +372,15 @@ https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +4
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +7
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм HD
@@ -399,6 +408,15 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +4
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +7
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
