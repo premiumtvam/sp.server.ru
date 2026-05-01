@@ -34,13 +34,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/187.png" group-title="Общероссийские",Россия Культура HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1100.png" group-title="Общероссийские",Россия К +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NpwVkz5.png" group-title="Общероссийские",Россия К +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1100.png" group-title="Общероссийские",Россия К +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1100.png" group-title="Общероссийские",Россия К +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QAeL8st.png" group-title="Общероссийские",Россия К +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2041.png" group-title="Общероссийские",НТВ Хит	
