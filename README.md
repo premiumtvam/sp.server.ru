@@ -131,7 +131,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3037.png" group-title="Общероссийские",ТВ Центр +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВ Центр +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3037.png" group-title="Общероссийские",ТВ Центр +4
@@ -143,25 +143,25 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ3
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ-3 +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMI3nxL.png" group-title="Общероссийские",ТВ-3 +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ-3 +4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrTXmuN.png" group-title="Общероссийские",ТВ-3 +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/698.png" group-title="Общероссийские",ТВ-3 +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYt5gzm.png" group-title="Общероссийские",ТВ-3 +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.one/img/3011.png" group-title="Общероссийские",Домашний +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jiwkc6q.png" group-title="Общероссийские",Домашний +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3011.png" group-title="Общероссийские",Домашний +4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aaxiqh6.png" group-title="Общероссийские",Домашний +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3011.png" group-title="Общероссийские",Домашний +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgaOQJt.png" group-title="Общероссийские",Домашний +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний INT
