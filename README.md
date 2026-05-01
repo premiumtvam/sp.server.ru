@@ -362,6 +362,10 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ HD
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=hdhbWG242Vv2cqtaLxhXpw&e=2074434608&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L4odvTX2m8IkYp-7ZTKag&e=2074434863&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -374,10 +378,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ HD
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=hdhbWG242Vv2cqtaLxhXpw&e=2074434608&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L4odvTX2m8IkYp-7ZTKag&e=2074434863&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
