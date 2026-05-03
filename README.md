@@ -320,8 +320,8 @@ http://stream01.vnet.am/Bober/index.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV  
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9qOHpK3.png" group-title="Кино",HollywooD
-https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qOHpK3.png" group-title="Кино",HollywooD HD
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="Кино",Кино 1 INT 
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
