@@ -571,6 +571,8 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",TERRA
+https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3T2YZK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
