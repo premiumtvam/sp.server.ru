@@ -573,9 +573,9 @@ http://stream01.vnet.am/Channel_124/mono.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PEvIxMY.png" group-title="Познавательные"History
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEvIxMY.png" group-title="Познавательные",History
 https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OJIa9Dm.png" group-title="Познавательные"History2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJIa9Dm.png" group-title="Познавательные",History2
 https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5SmfGw.png" group-title="Познавательные",Galaxy
 https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
