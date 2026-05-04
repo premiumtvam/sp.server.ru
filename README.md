@@ -569,8 +569,6 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный int HD
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=mGd5reDNxRRy8rbAEWMA2A&e=2074428035&scheme=https
-#EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
-http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4j2Anc.png" group-title="Познавательные",Дикая охота HD
 http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
@@ -583,6 +581,8 @@ https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEvIxMY.png" group-title="Познавательные",History
 https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJIa9Dm.png" group-title="Познавательные",History2
