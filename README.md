@@ -569,15 +569,15 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Ocean TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YmUT0ER.png" group-title="Познавательные",Ocean TV
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные"History
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEvIxMY.png" group-title="Познавательные"History
 https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные"History2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJIa9Dm.png" group-title="Познавательные"History2
 https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Galaxy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5SmfGw.png" group-title="Познавательные",Galaxy
 https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
@@ -599,7 +599,7 @@ https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8YO_AMxYEyGXl629ojizgA&e=2075376102&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdEGZYl.png" group-title="Познавательные",Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdEGZYl.png" group-title="Познавательные",В мире животных
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXp0JD7.png" group-title="Познавательные",В мире животных HD
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
