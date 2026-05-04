@@ -495,6 +495,8 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2W4C5L3.png" group-title="Музыкальные",Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
@@ -585,6 +587,8 @@ https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkFE5e9.png" group-title="Познавательные",Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",TERRA
 https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfobaFh.png" group-title="Познавательные",Техно 24
@@ -607,6 +611,8 @@ https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8Y
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXp0JD7.png" group-title="Познавательные",В мире животных HD
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnJCWcn.png" group-title="Познавательные",Домашние Животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2SqVT2.png" group-title="Познавательные",Зоо ТВ
