@@ -617,7 +617,7 @@ https://bl.rutube.ru/livestream/8ceccbefd972496f7c2dd5a7acc476fc/index.m3u8?s=8Y
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXp0JD7.png" group-title="Познавательные",В мире животных HD
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnJCWcn.png" group-title="Познавательные",Домашние Животные
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnJCWcn.png" group-title="Познавательные",Домашние Животные HD
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DR33iEf.png" group-title="Познавательные",Love Nature 4K
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_LOVENATURE/index.m3u8
