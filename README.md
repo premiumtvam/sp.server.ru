@@ -218,6 +218,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ HD
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -569,6 +571,8 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZCo7YI.png" group-title="Познавательные",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YmUT0ER.png" group-title="Познавательные",Ocean TV
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oY7fP8G.png" group-title="Познавательные",Insight TV HD
@@ -583,6 +587,8 @@ https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",TERRA
 https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TfobaFh.png" group-title="Познавательные",Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3T2YZK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
