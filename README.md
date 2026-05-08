@@ -116,6 +116,15 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4 +2
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4 +4
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4 +7
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/18.png" group-title="Общероссийские",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
@@ -595,8 +604,6 @@ http://stream01.vnet.am/Evrika/mono.m3u8
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",TERRA
 https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TfobaFh.png" group-title="Познавательные",Техно 24
-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
 https://clck.ru/3T2YZK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
