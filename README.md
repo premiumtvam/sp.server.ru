@@ -640,10 +640,6 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
 http://s7.merlive.am/ktoestkto/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEUc1qR.png" group-title="Познавательные",Время
-https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/01mtQ9s.png" group-title="Познавательные",Вопросы и ответы 
-https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
