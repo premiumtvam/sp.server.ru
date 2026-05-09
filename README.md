@@ -431,10 +431,10 @@ https://clck.ru/3F6ZUK
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2266.png" group-title="Новости",Euronews HD 
 https://stream01.vnet.am/Channel_119/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6H5745.png" group-title="Детский",Капитан Фантастика 
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G6H5745.png" group-title="Детский",Капитан Фантастика HD
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6rnQWNN.png" group-title="Детский",Смайлик ТВ HD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=hdhbWG242Vv2cqtaLxhXpw&e=2074434608&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xkns27.png" group-title="Детский",Радость Моя
