@@ -115,7 +115,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1649.png" group-title="Общероссийские",ТНТ4 +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
