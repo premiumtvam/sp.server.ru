@@ -488,6 +488,8 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
 http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWZYjjr.png" group-title="Детский",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0F3U3P.png" group-title="Детский",TiJi
 https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYcAoFP.png" group-title="Детский",Duck TV
