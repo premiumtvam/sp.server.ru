@@ -494,7 +494,7 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYcAoFP.png" group-title="Детский",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bHdYkTI.png" group-title="Детский",Пингвин
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHdYkTI.png" group-title="Детский",Пингвин HD
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
