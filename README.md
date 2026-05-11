@@ -712,7 +712,7 @@ https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=n3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kztGpvE.png" group-title="Спортивные",TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel HD
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xlwaBpe.png" group-title="Спортивные",FUEL TV HD
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjUUZc.png" group-title="Спортивные",MLB TV HD
