@@ -349,7 +349,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24  
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pa5XUDt.png" group-title="Кино",LAV-KINO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pa5XUDt.png" group-title="Кино",LAV KINO HD
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema  
 http://catchup.videoline.ru/cinema/index.m3u8
