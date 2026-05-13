@@ -339,6 +339,8 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pa5XUDt.png" group-title="Кино",LAV KINO HD
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 HD  
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6RUCrK.png" group-title="Кино",Romance TV  
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r7bfADV.png" group-title="Кино",Viju+ serial
@@ -349,8 +351,6 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6260.png" group-title="Кино",Детское кино INT 
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24  
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="Кино",Cinema  
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/542.png" group-title="Кино",Кинохит HD 
