@@ -671,7 +671,7 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318
 #EXTINF:-1 tvg-logo="http://epg.one/img/2052.png" group-title="Спортивные",Eurosport 1 HD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbicdHD.png" group-title="Спортивные",Eurosport 2 HD
-http://176.96.241.40/Eurosport2/index.m3u8
+http://217.113.16.23/eurosport2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2285.png" group-title="Спортивные",Бокс ТВ 
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRiZ0Qw.png" group-title="Спортивные",Матч! ТВ
