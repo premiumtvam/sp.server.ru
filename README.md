@@ -548,8 +548,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=zn
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
 https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=i9pdehGnOM4YIGtWjs8aHw&e=2079522848&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ayl1fq.png" group-title="Музыкальные",AFROBEATS HD
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
