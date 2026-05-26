@@ -681,7 +681,7 @@ https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=-d
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=n3wquOK0Hjepj7R5UAOsgA&e=2074182214&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kztGpvE.png" group-title="Спортивные",TNT SPORTS 1 HD
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kztGpvE.png" group-title="Спортивные",SPORTS GRID HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXcuttL.png" group-title="Спортивные",SPORTS GRID HD
 https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=Th0-X9KDgHBUnJ8FeaEZDA&e=2079827257&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
