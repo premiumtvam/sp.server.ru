@@ -323,12 +323,12 @@ http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhauotH.png" group-title="Общероссийские",Енисей HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
+http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KM8WFH9.png" group-title="Общероссийские",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kiyyMkv.png" group-title="Общероссийские",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1700.png" group-title="Общероссийские",КВН ТВ
-http://stream01.vnet.am/Bober/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кино",Кино и жизнь HD 
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ppk20Sj.png" group-title="Кино",Kino 24 HD  
@@ -522,8 +522,6 @@ https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=znpH2n9vEtzG0FkPzwpTbg&e=2074180980&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYe4a8q.png" group-title="Музыкальные",TMF RUS HD
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4654.png" group-title="Музыкальные",MIXM TV HD 
-https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=i9pdehGnOM4YIGtWjs8aHw&e=2079522848&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/8044.png" group-title="Музыкальные",Deluxe Music HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
