@@ -51,7 +51,7 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1753.png" group-title="Общероссийские",НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67RJAbC.png" group-title="Общероссийские",НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2001.png" group-title="Общероссийские",НТВ HD
