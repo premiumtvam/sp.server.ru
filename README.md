@@ -624,14 +624,6 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rkyYshC.png" group-title="Спортивные",Матч! ТВ HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nxuo33M.png" group-title="Спортивные",МАТЧ! Футбол 1 HD
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10015/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ewt29V.png" group-title="Спортивные",МАТЧ! Футбол 2 HD
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10027/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3CsG2XN.png" group-title="Спортивные",МАТЧ! Футбол 3 HD
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aF1sqTb.png" group-title="Спортивные",МАТЧ ПРЕМЬЕР HD
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/220/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",FAST SPORTS HD
