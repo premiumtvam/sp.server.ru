@@ -630,6 +630,8 @@ http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10015/index.m3u8
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CsG2XN.png" group-title="Спортивные",МАТЧ! Футбол 3 HD
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/10016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aF1sqTb.png" group-title="Спортивные",МАТЧ ПРЕМЬЕР HD
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/220/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2043.png" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ1jebV.png" group-title="Спортивные",FAST SPORTS HD
