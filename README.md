@@ -145,37 +145,37 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВЦ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВ Центр +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Плюсовые",ТВ Центр +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВ Центр +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Плюсовые",ТВ Центр +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Общероссийские",ТВ Центр +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/649.png" group-title="Плюсовые",ТВ Центр +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZdZHCsg.png" group-title="Общероссийские",ТВ3
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VMI3nxL.png" group-title="Общероссийские",ТВ-3 +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMI3nxL.png" group-title="Плюсовые",ТВ-3 +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrTXmuN.png" group-title="Общероссийские",ТВ-3 +4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrTXmuN.png" group-title="Плюсовые",ТВ-3 +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYt5gzm.png" group-title="Общероссийские",ТВ-3 +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYt5gzm.png" group-title="Плюсовые",ТВ-3 +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Плюсовые",Домашний +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Плюсовые",Домашний +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Плюсовые",Домашний +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/304.png" group-title="Общероссийские",Домашний INT
@@ -185,37 +185,37 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/405.png" group-title="Общероссийские",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iOuf2ga.png" group-title="Общероссийские",Звезда +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOuf2ga.png" group-title="Плюсовые",Звезда +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRVDwZ2.png" group-title="Общероссийские",Звезда +4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRVDwZ2.png" group-title="Плюсовые",Звезда +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CCaeWap.png" group-title="Общероссийские",Звезда +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCaeWap.png" group-title="Плюсовые",Звезда +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Плюсовые",Пятый канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Плюсовые",Пятый канал +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Общероссийские",Пятый канал +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/427.png" group-title="Плюсовые",Пятый канал +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Плюсовые",Пятница +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Плюсовые",Пятница +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Общероссийские",Пятница +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/1003.png" group-title="Плюсовые",Пятница +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота
@@ -223,13 +223,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота HD
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=keG413sRfY8MHQwYZjBOaw&e=2075378670&scheme=https
-#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Плюсовые",Суббота +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Плюсовые",Суббота +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Общероссийские",Суббота +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/2288.png" group-title="Плюсовые",Суббота +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ
@@ -237,25 +237,25 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю ТВ HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Плюсовые",Ю +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Плюсовые",Ю +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Общероссийские",Ю +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/898.png" group-title="Плюсовые",Ю +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Плюсовые",Че! +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Плюсовые",Че! +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Общероссийские",Че! +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/1598.png" group-title="Плюсовые",Че! +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1000.png" group-title="Общероссийские",ОТР
@@ -425,36 +425,36 @@ https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2L
 #EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце 
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Плюсовые",Солнце +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Плюсовые",Солнце +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Детский",Солнце +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/7669.png" group-title="Плюсовые",Солнце +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Плюсовые",2Х2 +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Плюсовые",2Х2 +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Детский",2Х2 +7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaa2k40.png" group-title="Плюсовые",2Х2 +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель
 http://stream02.vnet.am/Karusel/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Плюсовые",Карусель +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Плюсовые",Карусель +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Детский",Карусель +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Плюсовые",Карусель +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
@@ -482,13 +482,13 @@ http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +2
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Плюсовые",МУЗ-ТВ  +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +4
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Плюсовые",МУЗ-ТВ  +4
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ  +7
+#EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Плюсовые",МУЗ-ТВ  +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
