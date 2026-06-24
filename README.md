@@ -365,13 +365,15 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-id="50177" tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix HD
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-id="49812" tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal HD
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdIs4Aq.png" group-title="Кинозалы",KinoJam HD
 http://kinowalk.hopto.org/kinojam_live
