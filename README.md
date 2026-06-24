@@ -644,8 +644,10 @@ https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZ
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8eMXvf.png" group-title="Спортивные",SKY SPORT TENNIS HD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",Tennis Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdJfutU.png" group-title="Спортивные",TENNIS CHANNEL HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kztGpvE.png" group-title="Спортивные",TNT SPORTS 1 HD
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=L2G_dL6--mgpw8a02gNf4Q&e=2082313772&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53nLP2H.png" group-title="Спортивные",UNBEATEN HD
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=YffKMsqgeh2Y2rdcsAS6iQ&e=2074426772&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1E4DZP9.png" group-title="Спортивные",BEIN SPORTS XTRA HD
