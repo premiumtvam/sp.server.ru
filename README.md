@@ -577,8 +577,6 @@ http://stream01.vnet.am/Channel_124/mono.m3u8
 http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ADZvmzn.png" group-title="Познавательные",Наука
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upCEa5I.png" group-title="Познавательные",HGTV HD
