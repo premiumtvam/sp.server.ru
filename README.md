@@ -318,6 +318,8 @@ https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w7495222
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w486063721_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2540.png" group-title="Общероссийские",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1793694951_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8Lc76W.png" group-title="Общероссийские",Беларусь 4 HD
+https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo37spz.png" group-title="Общероссийские",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxzjMJ.png" group-title="Общероссийские",Неизвестная Россия HD
