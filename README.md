@@ -507,6 +507,8 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vXE0dU.png" group-title="Музыкальные",Now 80s
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEQTuuo.png" group-title="Музыкальные",Now 90s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp8rGTZ.png" group-title="Музыкальные",Now Rock
