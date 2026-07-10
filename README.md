@@ -646,6 +646,8 @@ http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5700.png" group-title="Спортивные",FC REAL MADRID TV 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOZjQHh.png" group-title="Спортивные",BARCA TV HD
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8Xhqmd.png" group-title="Спортивные",FIFA+ HD
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="Спортивные",SKY SPORT PREMIER LEAGUE HD
