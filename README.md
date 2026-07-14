@@ -563,6 +563,8 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIo2Z9K.png" group-title="Музыкальные",Trace Latina HD
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihNHu2y.png" group-title="Музыкальные",Trace Brazuca HD
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
