@@ -459,8 +459,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/740.png" group-title="Плюсовые",Карусель +7
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a4jJbn2.png" group-title="Детский",Мультимания 
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u3lIkS8.png" group-title="Детский",Союзмультфильм HD
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXNN6It.png" group-title="Детский",Nicktoons HD
@@ -563,6 +561,8 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w89
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5597.png" group-title="Музыкальные",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIo2Z9K.png" group-title="Музыкальные",Trace Latina HD
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD 
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
