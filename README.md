@@ -537,6 +537,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vRfHVWR.png" group-title="Музыкальные",Deluxe Dance HD
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=qhzajbtrKbwOd6XCjDmajg&e=2074785241&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7z0eU41.png" group-title="Музыкальные",Deluxe Dance By HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power TV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXOFTkQ.png" group-title="Музыкальные",Power love TV HD
