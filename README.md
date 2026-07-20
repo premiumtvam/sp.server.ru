@@ -409,11 +409,15 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24 HD
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24 HD
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2170.png" group-title="Новости",Беларусь 24 HD
 https://clck.ru/3F6ZUK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRWcCDP.png" group-title="Новости",Известие HD
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",Euronews HD
+https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXOTWkD.png" group-title="Новости",Russia Today HD
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExL2z8V.png" group-title="Детский",Чип и Дейл HD 
