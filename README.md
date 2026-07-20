@@ -585,10 +585,10 @@ http://stream01.vnet.am/Channel_127/mono.m3u8
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
-http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfobaFh.png" group-title="Познавательные",T24
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
+http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
 http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
