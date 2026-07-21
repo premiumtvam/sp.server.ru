@@ -369,6 +369,10 @@ http://stream01.vnet.am/Tekhno24/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/veOtgSw.png" group-title="Кинозалы",CPS Fresh HD
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZhBF1e.png" group-title="Кинозалы",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJfurum.png" group-title="Кинозалы",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
 http://kinowalk.hopto.org/akudjitv_live
