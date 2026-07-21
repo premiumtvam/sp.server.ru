@@ -367,6 +367,8 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veOtgSw.png" group-title="Кинозалы",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/veOtgSw.png" group-title="Кинозалы",CPS Fresh HD
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZhBF1e.png" group-title="Кинозалы",CPS Comedy HD
