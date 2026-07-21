@@ -379,6 +379,8 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSZ2jTM.png" group-title="Кинозалы",CPS Investigation HD
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSZ2jTM.png" group-title="Кинозалы",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
 http://kinowalk.hopto.org/akudjitv_live
