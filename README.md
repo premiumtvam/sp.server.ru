@@ -404,9 +404,9 @@ http://kinowalk.hopto.org/movietoper_live
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time HD
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UKgvCzR.png" group-title="Кинозалы",TimeToMovie HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKqx982.png" group-title="Кинозалы",TimeToMovie HD
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8HHDq.png" group-title="Кинозалы",TimeToHorror HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeZpOsW.png" group-title="Кинозалы",TimeToHorror HD
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dA3Y03A.png" group-title="Кинозалы",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
