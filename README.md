@@ -400,7 +400,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZemO33G.png" group-title="Кинозалы",kinolampa HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBAT7r2.png" group-title="Кинозалы",kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2gi1OL.png" group-title="Кинозалы",Blockbusters Time HD
 http://kinowalk.hopto.org/blockbusterstime_live
@@ -408,7 +408,7 @@ http://kinowalk.hopto.org/blockbusterstime_live
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8HHDq.png" group-title="Кинозалы",TimeToHorror HD
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/meFWZvm.png" group-title="Кинозалы",Video_Prokat HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA3Y03A.png" group-title="Кинозалы",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwHY8ay.png" group-title="Кинозалы",VHS Forever HD
 http://kinowalk.hopto.org/vhs-forever_live
