@@ -388,7 +388,7 @@ http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UsVOa1s.png" group-title="Кинозалы",Akudji TV HD
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
 http://kinowalk.hopto.org/kinowalk_live
