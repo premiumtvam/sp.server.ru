@@ -390,9 +390,9 @@ http://kinowalk.hopto.org/legion-tv_live
 http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BXnPQ.png" group-title="Кинозалы",Kinowalk HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZKMbiG.png" group-title="Кинозалы",Kinowalk HD
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iu3SbGG.png" group-title="Кинозалы",KinoMix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLiDgdd.png" group-title="Кинозалы",KinoMix HD
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal HD
 http://kinowalk.hopto.org/videoarsenal_live
