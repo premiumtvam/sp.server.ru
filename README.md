@@ -394,11 +394,11 @@ http://kinowalk.hopto.org/scripachtv_live
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLiDgdd.png" group-title="Кинозалы",KinoMix HD
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7iLYCDr.png" group-title="Кинозалы",Video-Arsenal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mo9Ac3E.png" group-title="Кинозалы",Video-Arsenal HD
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdIs4Aq.png" group-title="Кинозалы",KinoJam HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiD7DEm.png" group-title="Кинозалы",KinoJam HD
 http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DjFhVVS.png" group-title="Кинозалы",MovieToper HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYUQ6zY.png" group-title="Кинозалы",MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBAT7r2.png" group-title="Кинозалы",kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
