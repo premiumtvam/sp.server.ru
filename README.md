@@ -412,11 +412,11 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LgV1mko.png" group-title="Кинозалы",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YwHY8ay.png" group-title="Кинозалы",VHS Forever HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DForxaE.png" group-title="Кинозалы",VHS Forever HD
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1WQkLr.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FaeFQAD.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 HD
 http://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOJOvSZ.png" group-title="Кинозалы",Кино и жизнь HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
