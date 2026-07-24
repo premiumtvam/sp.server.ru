@@ -735,8 +735,6 @@ http://45.159.74.22/Armeniatv/tracks-v1a1/mono.m3u8
 http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5930.png" group-title="Армения",Լուրեր HD
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2385.png" group-title="Армения",Ազատություն TV HD
-http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2065.png" group-title="Армения",Կենտրոն HD
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV HD
@@ -751,8 +749,6 @@ http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք HD
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5606.png" group-title="Армения",Fresh Armenia HD
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
 http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ HD
