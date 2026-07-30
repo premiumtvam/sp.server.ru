@@ -384,7 +384,7 @@ http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4P28etl.png" group-title="Кинозалы",CPS Jackie Chan HD
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion TV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12ZJWJ7.png" group-title="Кинозалы",Legion TV HD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
