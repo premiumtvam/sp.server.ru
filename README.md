@@ -528,6 +528,12 @@ http://stream01.vnet.am/Channel_115/mono.m3u8
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",Retro Plus
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Music 00s
+https://live20.bozztv.com/giatvplayout7/giatv-211679/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vXE0dU.png" group-title="Музыкальные",Music 80s
+https://live20.bozztv.com/giatvplayout7/giatv-211673/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEQTuuo.png" group-title="Музыкальные",Music 90s
+https://live20.bozztv.com/giatvplayout7/giatv-211677/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6625.png" group-title="Музыкальные",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vXE0dU.png" group-title="Музыкальные",Now 80s
