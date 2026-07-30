@@ -386,8 +386,6 @@ http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion TV HD 
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8LN3lH.png" group-title="Кинозалы",Akudji TV HD
-http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZKMbiG.png" group-title="Кинозалы",Kinowalk HD
