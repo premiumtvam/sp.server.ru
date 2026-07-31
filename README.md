@@ -406,8 +406,6 @@ http://kinowalk.hopto.org/blockbusterstime_live
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYHAwzQ.png" group-title="Кинозалы",TimeToHorror HD
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxEPQKJ.png" group-title="Кинозалы",ZubrilomFilm HD
-http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LgV1mko.png" group-title="Кинозалы",Video_Prokat HD
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DForxaE.png" group-title="Кинозалы",VHS Forever HD
