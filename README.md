@@ -367,19 +367,6 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4oHr3Ky.png" group-title="Кинозалы",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2J5O32.png" group-title="Кинозалы",CPS Fresh HD
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OfUmQuq.png" group-title="Кинозалы",CPS Comedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGkjWbU.png" group-title="Кинозалы",CPS Detective HD
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1BDaKiR.png" group-title="Кинозалы",CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4P28etl.png" group-title="Кинозалы",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/12ZJWJ7.png" group-title="Кинозалы",Legion TV HD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
@@ -410,8 +397,6 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubYufJQ.png" group-title="Кинозалы",VB Всё в одном HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.BMuZHAyh31c9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
@@ -518,10 +503,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IjWBsI.png" group-title="Музыкальные",VB Русская Попса 80х-90х HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.UsskzeWbBzIX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DuUgVWo.png" group-title="Музыкальные",VB Eurodance hits 90s HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.KQqQc9umXpN7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYQ6C9y.png" group-title="Музыкальные",Retro Music
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",Retro Plus
