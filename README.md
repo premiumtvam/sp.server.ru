@@ -373,10 +373,6 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfUmQuq.png" group-title="Кинозалы",CPS Comedy HD
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNqVx3s.png" group-title="Кинозалы",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4J2Kb.png" group-title="Кинозалы",CPS Drama HD
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGkjWbU.png" group-title="Кинозалы",CPS Detective HD
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1BDaKiR.png" group-title="Кинозалы",CPS Fiction HD
