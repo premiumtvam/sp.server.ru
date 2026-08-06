@@ -397,7 +397,7 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-#EXTINF:-1 tvg-logo="https://s6.iimage.su/s/06/gnyQeTex0fqIpdBByaiOiDoVXqaKsc43DiiS9Qq6v.jpg" group-title="Кинозалы",VB Российские сериалы HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dtfx3C0.png" group-title="Кинозалы",VB Российские сериалы HD
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.9cRzMPUduIyw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
