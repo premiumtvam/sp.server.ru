@@ -633,6 +633,8 @@ http://stream02.vnet.am/NationalGeographic/index.m3u8
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2507.png" group-title="Познавательные",Investigation Discovery HD
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIwlz8a.png" group-title="Познавательные",Тайны Чапман HD
+http://cdntv.online/low/36m9rn5du2/2215.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
