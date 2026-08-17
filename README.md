@@ -497,10 +497,12 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные",Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
-http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuUgVWo.png" group-title="Музыкальные",VB Eurodance hits 90s HD
+http://kinowalk.hopto.org/vb_edh90sanddh90s_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYQ6C9y.png" group-title="Музыкальные",Retro Music
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",Retro Plus
