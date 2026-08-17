@@ -367,6 +367,8 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2768.png" group-title="Кино",Арсенал HD 
 http://stream01.vnet.am/Tekhno24/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion tv HD 
+http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbrp0zw.png" group-title="Кинозалы",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZKMbiG.png" group-title="Кинозалы",Kinowalk HD
