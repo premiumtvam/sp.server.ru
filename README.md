@@ -395,6 +395,8 @@ http://kinowalk.hopto.org/video_prokat_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FaeFQAD.png" group-title="Кинозалы", 𝕂𝔸ℂℂ𝔼𝕋𝔸 HD
 http://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dtfx3C0.png" group-title="Кинозалы",VB Российские сериалы HD
+http://kinowalk.hopto.org/russerials_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
 
@@ -507,6 +509,8 @@ http://stream01.vnet.am/Channel_115/mono.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuUgVWo.png" group-title="Музыкальные",VB Eurodance hits 90s HD
 http://kinowalk.hopto.org/vb_edh90sanddh90s_live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IjWBsI.png" group-title="Музыкальные",VB Русская Попса 80х-90х HD
+http://kinowalk.hopto.org/vbrusdancepops80_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYQ6C9y.png" group-title="Музыкальные",Retro Music
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8HT0sq.png" group-title="Музыкальные",Retro Plus
