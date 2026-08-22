@@ -399,7 +399,10 @@ http://kinowalk.hopto.org/kasseta_live
 http://kinowalk.hopto.org/russerials_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",Кино и жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",AMAZON PRIME VIDEO ROMANCE HD
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZ7UF9G.png" group-title="Кинозалы",AMAZON PRIME VIDEO MEN'S CLUB HD
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=uagq7qyIq4Aezo9xxqoWOA&e=2087404567&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yLSOrU.png" group-title="Новости",РБК HD
 https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Wc_5wAlf0XEifJD5RKqmHA&e=2074432391&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0RKYPF.png" group-title="Новости",Соловьев.Live HD 
