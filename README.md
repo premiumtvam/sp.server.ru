@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://api.catcast.tv/api/timetable/epg.xml?channel_ids=48917,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=43064,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=49811"
-#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/5QWjhr6.png" group-title="Кинозалы",Legion tv HD 
+#EXTINF:-1 tvg-id="48917" tvg-logo="https://i.imgur.com/OzQ9L3f.png" group-title="Кинозалы",Legion tv HD 
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 tvg-id="49811" tvg-logo="https://i.imgur.com/WUNc721.png" group-title="Кинозалы",Scripach tv HD
 http://kinowalk.hopto.org/scripachtv_live
