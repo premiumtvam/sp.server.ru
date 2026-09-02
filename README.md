@@ -512,7 +512,7 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r67V4uU.png" group-title="Музыкальные",MTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r67V4uU.png" group-title="Музыкальные",MTV Россия HD
 http://kinowalk.hopto.org/vovanb_iptv_live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuUgVWo.png" group-title="Музыкальные",VB Eurodance hits 90s HD
 http://kinowalk.hopto.org/vb_edh90sanddh90s_live
