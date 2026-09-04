@@ -561,10 +561,20 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eghnors.png" group-title="Познавательные",Загородный int HD
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=mGd5reDNxRRy8rbAEWMA2A&e=2074428035&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4j2Anc.png" group-title="Познавательные",Дикая охота HD
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Btffp.png" group-title="Познавательные",Дикая рыбалка HD
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1681.png" group-title="Познавательные",Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2456.png" group-title="Познавательные",Кто есть кто
+http://s7.merlive.am/ktoestkto/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1036.png" group-title="Познавательные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2310.png" group-title="Познавательные",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/675.png" group-title="Познавательные",Моя планета 
+https://stream01.vnet.am/365Dney/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2417.png" group-title="Познавательные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/9155.png" group-title="Познавательные",Travelxp HD
