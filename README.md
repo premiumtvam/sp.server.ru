@@ -17,7 +17,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/984.png" group-title="Общероссийские",Россия 1 HD
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+https://bl.rutube.ru/livestream/2742a3c42be661ea732705f80adb7bdd/index.m3u8?s=7OBrkFOa_N7p0wUWxVqfbQ&e=2088600911&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ralFFwa.png" group-title="Плюсовые",Россия 1 +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
@@ -31,7 +31,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/187.png" group-title="Общероссийские",Россия Культура HD
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=Y_VEc8OlrOdy8XJlZTG-Zw&e=2088600863&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NpwVkz5.png" group-title="Плюсовые",Россия К +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
