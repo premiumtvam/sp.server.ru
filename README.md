@@ -563,8 +563,6 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV HD
 https://bss1.neterra.tv/magictv/stream_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="Музыкальные",Kronehit HD
