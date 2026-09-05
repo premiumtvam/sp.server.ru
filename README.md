@@ -402,6 +402,10 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=Fa
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=bbR5lsePqZxDCCVhOuH6cg&e=2087491427&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcRZ1Jb.png" group-title="Кинозалы",MARVEL STUDIOS HD
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=AzUB-Gms9hE0oLppbm_Cyg&e=2088602683&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EoF27t1.png" group-title="Кинозалы",Apple tv+ dramas HD
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Ik8QSrqzpj6QWNbHbo_E3g&e=2088610116&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EoF27t1.png" group-title="Кинозалы",Apple tv+ action HD
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=6hYcBs18G-WmLndsaVkdYA&e=2088609986&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5XaWf6.png" group-title="Кинозалы",AMAZON PRIME VIDEO ROMANCE HD
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIfcswa.png" group-title="Кинозалы",AMAZON PRIME VIDEO MEN'S CLUB HD
