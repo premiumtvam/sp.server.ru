@@ -411,6 +411,8 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1683.png" group-title="Новости",Россия 24 HD
+https://bl.rutube.ru/livestream/ad6ba2e9e587406b29978b861b7b7dd1/index.m3u8?s=aAc94Bqo9XRMQTsKl6m9pw&e=2088586060&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/omDeYry.png" group-title="Новости",Москва 24 HD
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=cSmaEYxigMfVQNcAX4ULsQ&e=2074432637&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vy0dMx9.png" group-title="Новости",КРЫМ 24
