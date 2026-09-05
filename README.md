@@ -767,6 +767,8 @@ http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krJaLKS.png" group-title="Армения",Բազմոց TV HD
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fXyYXa.png" group-title="Армения",Սինեման HD
+http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք HD
 http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
