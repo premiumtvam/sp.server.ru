@@ -563,6 +563,8 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zOJm0C.png" group-title="Музыкальные",Magic TV HD
 https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjiQajc.png" group-title="Музыкальные",Clubbing TV HD
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4673.png" group-title="Музыкальные",Deejay TV HD
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4653.png" group-title="Музыкальные",Kronehit HD
@@ -625,8 +627,12 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet 
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/365.png" group-title="Познавательные",Animal Planet HD
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=oze30Q2MFL1ipF1AyWna7g&e=2088589582&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/223.png" group-title="Познавательные",Nat Geo Wild HD
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=fJtT87LjWLXCCT66HGeZLA&e=2088589653&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/102.png" group-title="Познавательные",National Geographic HD
@@ -644,8 +650,9 @@ https://clck.ru/3V5PMR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
 https://clck.ru/3T2YaD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",TRAVEL CHANNEL HD
-https://clck.ru/3T2YWd
-
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ywryuax.png" group-title="Познавательные", Home 4K HD
+https://bl.rutube.ru/livestream/b403a74c344e520d7313c4b73b1b0aff/index.m3u8?s=PjlSrEQyITt1VW-gv4eoaA&e=2088589703&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
