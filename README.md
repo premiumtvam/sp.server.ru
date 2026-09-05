@@ -666,7 +666,7 @@ https://clck.ru/3T2YaD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rJLmiM.png" group-title="Познавательные",Travel + Adventure HD
-https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
+https://raw.githubusercontent.com/premiumtvam/iptv-placeholder/refs/heads/main/README.md
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ywryuax.png" group-title="Познавательные", Home 4K HD
 https://bl.rutube.ru/livestream/b403a74c344e520d7313c4b73b1b0aff/index.m3u8?s=PjlSrEQyITt1VW-gv4eoaA&e=2088589703&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
