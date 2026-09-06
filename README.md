@@ -664,7 +664,7 @@ https://clck.ru/3V5PMR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel channel HD
-https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
+https://river-4-421.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/BOsXrR-shCc258Akwq6Icg/1789333958/4196566bc9c3b7b854074ad1a9a2db36/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rJLmiM.png" group-title="Познавательные",Travel + Adventure HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ywryuax.png" group-title="Познавательные", Home 4K HD
