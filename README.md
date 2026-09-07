@@ -664,7 +664,7 @@ https://clck.ru/3V5PMR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel channel HD
-https://river-4-421.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/BOsXrR-shCc258Akwq6Icg/1789333958/4196566bc9c3b7b854074ad1a9a2db36/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rJLmiM.png" group-title="Познавательные",Travel + Adventure HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ywryuax.png" group-title="Познавательные", Home 4K HD
@@ -762,6 +762,22 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2067.png" group-title="Армения",ATV HD
 http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ HD
+http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք HD
+http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV HD
+http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV HD
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
+http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն HD
+http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV HD
+http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/7765.png" group-title="Армения",ԹԱՎԱ TV HD
 http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybig9oZ.png" group-title="Армения",ԼԱՎՖՀԱՔ HD
@@ -772,27 +788,11 @@ http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fXyYXa.png" group-title="Армения",Սինեման HD
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2372.png" group-title="Армения",Հինգերորդ ալիք HD
-http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2061.png" group-title="Армения",Դար 21
 http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Af8kdjC.png" group-title="Армения",Շանթ HD
-http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BE5pTkG.png" group-title="Армения",Գեղամա TV HD
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YX9BU5V.png" group-title="Армения",Բուն TV HD
-http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV HD
-https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kCZbFEF.png" group-title="Армения",ՀԱՅ TV HD
-http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1gZPZm.png" group-title="Армения",Velari TV HD
 http://185.57.68.33:80/233/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն HD
-http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttWEwC2.png" group-title="Армения",Delta Music HD
 http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecVnFCw.png" group-title="Армения",Delta Travel HD
 http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
-http://45.11.139.43:8555/fitnes/index.m3u8
