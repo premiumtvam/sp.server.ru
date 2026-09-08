@@ -498,11 +498,13 @@ http://31.148.48.15/Ani/index.m3u8
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
 http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kkz1pfn.png" group-title="Детский",Мультиландия HD
+https://bl.rutube.ru/livestream/6947be59fd96d84b978d8a831f82bc30/index.m3u8?s=GhlErR6GAmRvw-9T0l5dhA&e=2088864656&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/6266.png" group-title="Музыкальные",Музыка 1 INT
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6268.png" group-title="Музыкальные",Музыка 2 INT
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",РУ ТВ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJjwKUr.png" group-title="Музыкальные",RU ТВ HD
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=TyVAj6QPVAmTk63OuFyoMg&e=2088603878&scheme=https
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/897.png" group-title="Музыкальные",МУЗ-ТВ
