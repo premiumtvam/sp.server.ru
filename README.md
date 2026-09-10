@@ -356,8 +356,12 @@ http://stream01.vnet.am/Nauka/index.m3u8
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox 
 https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/1031.png" group-title="Кино",Fox HD
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=DJkonOQqp8dVDkghULZx7w&e=2089066052&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life 
 http://stream01.vnet.am/KXLTV/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/615.png" group-title="Кино",Fox Life HD
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=60h9IAEA6akbYgQLX_iStg&e=2089065868&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.one/img/834.png" group-title="Кино",Дом Кино 
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2020.png" group-title="Кино",Дом кино Премиум HD  
