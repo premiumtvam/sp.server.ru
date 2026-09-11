@@ -496,8 +496,6 @@ http://stream01.vnet.am/Channel_114/mono.m3u8
 http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/1332.png" group-title="Детский",Мульт HD
 http://stream01.vnet.am/Mult/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLeqe2o.png" group-title="Детский",Ani
-http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/929.png" group-title="Детский",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/601.png" group-title="Детский",Cartoon Network HD
