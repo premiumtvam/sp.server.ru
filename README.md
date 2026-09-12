@@ -596,10 +596,10 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihNHu2y.png" group-title="Музыкальные",Trace Brazuca HD
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jO3ZOfq.png" group-title="Музыкальные",Первый Музыкальный HD
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="http://epg.one/img/425.png" group-title="Познавательные",TLC 
 http://stream01.vnet.am/TLC/tracks-v1a2/mono.m3u8
