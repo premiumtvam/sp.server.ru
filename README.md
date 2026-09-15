@@ -675,8 +675,6 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rJLmiM.png" group-title="Познавательные",Travel + Adventure HD
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ywryuax.png" group-title="Познавательные", Home 4K HD
-https://bl.rutube.ru/livestream/b403a74c344e520d7313c4b73b1b0aff/index.m3u8?s=PjlSrEQyITt1VW-gv4eoaA&e=2088589703&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
