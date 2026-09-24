@@ -794,6 +794,8 @@ http://185.57.68.33:80/255/index.m3u8
 http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1gZPZm.png" group-title="Армения",Velari TV HD
 http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocWFYSh.png" group-title="Армения",Hye HD
+https://edge1-us-losangeles.picarto.tv/stream/hls/golive%2BHYETVLIVE/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttWEwC2.png" group-title="Армения",Delta Music HD
 http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecVnFCw.png" group-title="Армения",Delta Travel HD
