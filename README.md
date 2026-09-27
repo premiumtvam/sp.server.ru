@@ -593,6 +593,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihNHu2y.png" group-title="Музыкальные",Trace Brazuca HD
 https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihNHu2y.png" group-title="Музыкальные",One.by Россия HD
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="http://epg.one/img/5365.png" group-title="Музыкальные",Первый Музыкальный BY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rtmp.one.by:1300/playlist.m3u8
