@@ -770,6 +770,8 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV HD
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Հայաստան Պրեմիում HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/273/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
 http://45.11.139.43:8555/fitnes/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն HD
