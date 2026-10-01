@@ -661,12 +661,8 @@ https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=HS
 https://clck.ru/3Vf39i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBBfGpQ.png" group-title="Познавательные",TERRA HD
 https://clck.ru/3V5PMR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QQz1t79.png" group-title="Познавательные",RTG HD
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hy8LU5.png" group-title="Познавательные",Travel channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=yQ7wg8PQuvWZ8aWClrmpQQ&e=2088589501&scheme=https
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rJLmiM.png" group-title="Познавательные",Travel + Adventure HD
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/87173/hls/pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0goaGa.png" group-title="Познавательные",Fashion TV HD
 https://stream01.vnet.am/ShansonTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AsmhlT1.png" group-title="Познавательные",World Fashion HD
@@ -772,6 +768,8 @@ http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Հայաստան Պրեմիում HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/273/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Կոմեդիա HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/277/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
 http://45.11.139.43:8555/fitnes/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sh5lnuc.png" group-title="Армения",Մուզզոն HD
