@@ -768,7 +768,7 @@ http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Հայաստան Պրեմիում HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/273/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Կոմեդիա HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssLrHMp.png" group-title="Армения",Կոմեդիա HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/277/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg4NDFf.png" group-title="Армения",Ֆիթնես TV HD
 http://45.11.139.43:8555/fitnes/index.m3u8
