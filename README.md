@@ -3,8 +3,6 @@
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-logo="http://epg.one/img/983.png" group-title="Общероссийские",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=tMye9fyt25pIzd-P6FsbQQ&e=2091035272&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTpOW42.png" group-title="Плюсовые",Первы канал +2
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
@@ -770,7 +768,7 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8g8YEXd.png" group-title="Армения",Արմաունթ TV HD
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Հայաստան Պրեմիում HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIUQsr3.png" group-title="Армения",Արմենիա Պրեմիում HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/273/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ssLrHMp.png" group-title="Армения",Կոմեդիա HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/277/index.m3u8
