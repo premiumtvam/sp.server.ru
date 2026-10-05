@@ -521,8 +521,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2278.png" group-title="Музыкальные",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/4672.png" group-title="Музыкальные",4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные",Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные",BRIDGE Русский Хит
