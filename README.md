@@ -523,8 +523,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/151.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge TV
 https://stream01.vnet.am/BRIDGETVDance/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2024.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge Hits
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/711/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2022.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge Deluxe HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/236/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",BRIDGE Русский Хит
-http://stream01.vnet.am/Channel_115/mono.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/120/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r67V4uU.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",MTV Россия HD
