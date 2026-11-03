@@ -528,7 +528,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/19227/ind
 #EXTINF:-1 tvg-logo="http://epg.one/img/2022.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge Deluxe HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/236/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/591.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",BRIDGE Русский Хит 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/19226/index.m3u8
+http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4373.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge TV Classic 
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4621.png" group-title="Музыкальные" catchup="default" catchup-source="http://archive.server/timeshift/{channel}/{start}.m3u8",Bridge Шлягер 
